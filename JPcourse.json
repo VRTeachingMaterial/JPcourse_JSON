@@ -1,0 +1,72 @@
+{
+	"course_length":3,
+	"courses":
+	[
+		{
+			"name":"Class room",
+			"youtube_id":"n3LUSPAN9cI",
+			"clips_len":2,
+			"clips"	:	
+			[
+				{
+					"time":	"5",
+					"ques"	:	"ここはどこですか？",
+					"ans"	:	"教室です"
+				},
+				{
+					"time":	"9",
+					"ques"	:	"この人は何をしていますか？",
+					"ans"	:	"勉強しています"
+				}
+			]
+		},
+
+		{
+			"name":"Library",
+			"youtube_id":"K8zgb_d9fSw",
+			"clips_len":3,
+			"clips"	:	
+			[
+				{
+					"time":	"3",
+					"ques"	:	"ここはどこですか？",
+					"ans"	:	"図書館です"
+				},
+				{
+					"time":	"6",
+					"ques"	:	"図書館は何時から何時までですか？",
+					"ans"	:	"8時から22時までです"
+				},
+				{
+					"time":	"5",
+					"ques"	:	"休みは何曜日ですか？",
+					"ans"	:	"です"
+				}
+			]
+		},
+
+		{
+			"name":"Convenient store",
+			"youtube_id":"vcO9sVSZsBk",
+			"clips_len":3,
+			"clips"	:	
+			[
+				{
+					"time":	"3",
+					"ques"	:	"ここはどこですか？",
+					"ans"	:	"コンビニです"
+				},
+				{
+					"time":	"6",
+					"ques"	:	"この人は何を買いましたか？",
+					"ans"	:	"パンを買いました"
+				},
+				{
+					"time":	"5",
+					"ques"	:	"パンはいくらですか？",
+					"ans"	:	"30円です"
+				}
+			]
+		}
+	]
+}
