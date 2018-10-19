@@ -81,12 +81,12 @@
 					"ans"	:	"インスタント ラーメンを買いたいです"
 				},
 				{
-					"time":	"8",
+					"time":	"9",
 					"ques"	:	"いろいろな種類がありますね。Bさんは、どんな味が好きですか？？",
 					"ans"	:	"辛い味のが好きです"
 				},
 				{
-					"time":	"26",
+					"time":	"24",
 					"ques"	:	"Bさん、何かほかに買いたいものはありますか？",
 					"ans"	:	"果物を買いたいです"
 				}
@@ -95,7 +95,7 @@
 		
 		{
 			"name":"Breakfast store",
-			"youtube_id":"0qebQ4wY6DI&feature=youtu.be",
+			"youtube_id":"0qebQ4wY6DI",
 			"clips_len":2,
 			"clips"	:	
 			[
