@@ -1,5 +1,5 @@
 {
-	"course_length":5,
+	"course_length":6,
 	"courses":
 	[
 		{
@@ -9,14 +9,29 @@
 			"clips"	:	
 			[
 				{
-					"time":	"5",
+					"time":	5,
 					"ques"	:	"ここはどこですか？",
-					"ans"	:	"教室です"
+					"start_nosound":0,
+					"end_nosound":0,
+					"ans_len":4,
+					"ans"	:	[
+									"教室です",
+									"教室",
+									"クラスです",
+									"クラス"
+								]
 				},
 				{
-					"time":	"9",
+					"time":	14,
 					"ques"	:	"この人は何をしていますか？",
-					"ans"	:	"勉強しています"
+					"start_nosound":0,
+					"end_nosound":0,
+					"ans_len":3,
+					"ans"	:	[
+									"勉強しています",
+									"勉強している",
+									"勉強"
+								]
 				}
 			]
 		},
@@ -28,19 +43,36 @@
 			"clips"	:	
 			[
 				{
-					"time":	"3",
+					"time":	3,
 					"ques"	:	"ここはどこですか？",
-					"ans"	:	"図書館です"
+					"start_nosound":0,
+					"end_nosound":0,
+					"ans_len":2,
+					"ans"	:	[
+									"図書館です",
+									"図書館"
+								]
 				},
 				{
-					"time":	"6",
+					"time":	9,
 					"ques"	:	"図書館は何時から何時までですか？",
-					"ans"	:	"8時から22時までです"
+					"start_nosound":0,
+					"end_nosound":0,
+					"ans_len":2,
+					"ans"	:	[
+									"8時から22時までです"
+									"8時から2時まで"
+								]
 				},
 				{
-					"time":	"5",
+					"time":	14,
 					"ques"	:	"休みは何曜日ですか？",
-					"ans"	:	"です"
+					"start_nosound":0,
+					"end_nosound":0,
+					"ans_len":1,
+					"ans"	:	[
+									"です"
+								]
 				}
 			]
 		},
@@ -52,19 +84,36 @@
 			"clips"	:	
 			[
 				{
-					"time":	"3",
+					"time":	3,
 					"ques"	:	"ここはどこですか？",
-					"ans"	:	"コンビニです"
+					"start_nosound":0,
+					"end_nosound":0,
+					"ans_len":2,
+					"ans"	:	[
+									"コンビニです",
+									"コンビニ"
+								]
 				},
 				{
-					"time":	"6",
+					"time":	9,
 					"ques"	:	"この人は何を買いましたか？",
-					"ans"	:	"パンを買いました"
+					"start_nosound":0,
+					"end_nosound":0,
+					"ans_len":2,
+					"ans"	:	[
+									"パンを買いました",
+									"パンです"
+								]
 				},
 				{
-					"time":	"5",
+					"time":	14,
 					"ques"	:	"パンはいくらですか？",
-					"ans"	:	"30円です"
+					"start_nosound":0,
+					"end_nosound":0,
+					"ans_len":1,
+					"ans"	:	[
+									"30円です"
+								]
 				}
 			]
 		},
@@ -76,19 +125,40 @@
 			"clips"	:	
 			[
 				{
-					"time":	"6",
+					"time":	6,
 					"ques"	:	"Ｂさん、なにを 買いたいですか？",
-					"ans"	:	"インスタント ラーメンを買いたいです"
+					"start_nosound":0,
+					"end_nosound":0,
+					"ans_len":3,
+					"ans"	:	[
+									"インスタントラーメンを買いたいです",
+									"インスタントラーメン",
+									"ラーメン"
+								]
 				},
 				{
-					"time":	"8",
+					"time":	14,
 					"ques"	:	"いろいろな種類がありますね。Bさんは、どんな味が好きですか？？",
-					"ans"	:	"辛い味のが好きです"
+					"start_nosound":0,
+					"end_nosound":0,
+					"ans_len":3,
+					"ans"	:	[
+									"辛い味のが好きです",
+									"辛い味の好きです",
+									"辛い味の"
+								]
 				},
 				{
-					"time":	"24",
+					"time":	38,
 					"ques"	:	"Bさん、何かほかに買いたいものはありますか？",
-					"ans"	:	"果物を買いたいです"
+					"start_nosound":0,
+					"end_nosound":0,
+					"ans_len":3,
+					"ans"	:	[
+									"果物を買いたいです",
+									"果物を買いたい",
+									"果物"
+								]
 				}
 			]
 		},
@@ -100,16 +170,66 @@
 			"clips"	:	
 			[
 				{
-					"time":	"2",
-					"ques"	:	"おはよう ございます",
-					"ans"	:	"おはよう ございます"
+					"time":	2,
+					"ques"	:	"おはようございます",
+					"start_nosound":0,
+					"end_nosound":0,
+					"ans_len":2,
+					"ans"	:	[
+									"おはようございます",
+									"おはよう"
+								]
 				},
 				{
-					"time":	"6",
+					"time":	8,
 					"ques"	:	"この店は 何の店ですか？",
-					"ans"	:	"朝ごはんの 店です"
+					"start_nosound":0,
+					"end_nosound":0,
+					"ans_len":1,
+					"ans"	:	[
+									"朝ごはんの店です"
+								]
 				}
 			]
 		},
+		{
+			"name":"キャンパス案内",
+			"youtube_id":"l_VrCgbRS9Q",
+			"clips_len":3,
+			"clips"	:	
+			[
+				{
+					"time":	1,
+					"ques"	:"ここは元智大学です。",
+					"start_nosound":1,
+					"end_nosound":2,
+					"ans_len":2,
+					"ans"	:	[
+									"元智大学",
+									"おはよう"
+								]
+				},
+				{
+					"time":	11,
+					"ques"	:	"ここはどこですか？",
+					"start_nosound":11,
+					"end_nosound":14,
+					"ans_len":1,
+					"ans"	:	[
+									"駐車場です"
+								]
+				},
+				{
+					"time":	23,
+					"ques"	:	"ここはどこですか？",
+					"start_nosound":23,
+					"end_nosound":24,
+					"ans_len":1,
+					"ans"	:	[
+									"１号館です"
+								]
+				}
+			]
+		}
 	]
 }
