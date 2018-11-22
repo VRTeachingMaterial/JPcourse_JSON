@@ -214,7 +214,7 @@
 					"ques"	:	"ここはどこですか？",
 					"start_nosound":11,
 					"end_nosound":14,
-					"ans_len":1,
+					"ans_len":2,
 					"ans"	:	[
 									"駐車場です",
 		                                                        "ここは駐車場です"
@@ -231,10 +231,10 @@
 								]
 				},
 			        {
-					"time":	60,
+					"time":	01:00,
 					"ques"	:	"",
-					"start_nosound":60,
-					"end_nosound":61,
+					"start_nosound":01:00,
+					"end_nosound":01:01,
 					"ans_len":1,
 					"ans"	:	[
 									"六号館です"
