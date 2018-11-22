@@ -200,13 +200,13 @@
 			[
 				{
 					"time":	1,
-					"ques"	:"ここは元智大学です。",
+					"ques"	:"",
 					"start_nosound":1,
 					"end_nosound":2,
 					"ans_len":2,
 					"ans"	:	[
-									"元智大学",
-									"おはよう"
+									"元智大学です",
+									"元智大学"
 								]
 				},
 				{
@@ -221,12 +221,43 @@
 				},
 				{
 					"time":	23,
-					"ques"	:	"ここはどこですか？",
+					"ques"	:	"",
 					"start_nosound":23,
 					"end_nosound":24,
 					"ans_len":1,
 					"ans"	:	[
 									"１号館です"
+								]
+				},
+					{
+					"time":	60,
+					"ques"	:	"",
+					"start_nosound":60,
+					"end_nosound":61,
+					"ans_len":1,
+					"ans"	:	[
+									"6号館です"
+								]
+				},
+				{
+					"time":	107,
+					"ques"	:	"",
+					"start_nosound":107,
+					"end_nosound":111,
+					"ans_len":2,
+					"ans"	:	[
+									"応用外国語学科は5号館です",
+						                        "5号館です"
+								]
+				},
+				{
+					"time":	133,
+					"ques"	:	"",
+					"start_nosound":133,
+					"end_nosound":135,
+					"ans_len":1,
+					"ans"	:	[
+									"図書館があります"
 								]
 				}
 			]
