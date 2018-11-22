@@ -231,10 +231,10 @@
 								]
 				},
 			        {
-					"time":	01:00,
+					"time":	58,
 					"ques"	:	"",
-					"start_nosound":01:00,
-					"end_nosound":01:01,
+					"start_nosound":58,
+					"end_nosound":59,
 					"ans_len":1,
 					"ans"	:	[
 									"六号館です"
