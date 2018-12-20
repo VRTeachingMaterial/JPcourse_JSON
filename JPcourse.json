@@ -37,41 +37,45 @@
 		},
 
 		{
-			"name":"Library",
-			"youtube_id":"K8zgb_d9fSw",
+			"name":"図書館(短い)",
+			"youtube_id":"MbV6wy7YMEA",
 			"clips_len":3,
 			"clips"	:	
 			[
 				{
 					"time":	3,
 					"ques"	:	"ここはどこですか？",
-					"start_nosound":0,
-					"end_nosound":0,
-					"ans_len":2,
+					"start_nosound":3,
+					"end_nosound":7,
+					"ans_len":3,
 					"ans"	:	[
 									"図書館です",
+						                        "ここは図書館です",
 									"図書館"
 								]
 				},
 				{
-					"time":	9,
-					"ques"	:	"図書館は何時から何時までですか？",
-					"start_nosound":0,
-					"end_nosound":0,
-					"ans_len":2,
+					"time":	16,
+					"ques"	:	"営業時間は何時から何時までですか？",
+					"start_nosound":16,
+					"end_nosound":23,
+					"ans_len":4,
 					"ans"	:	[
-									"8時から22時までです",
-									"8時から2時まで"
+									"朝八時から午後十時までです",
+						                        "朝八時から午後十時まで",
+						                        "朝8時から午後10時までです",
+									"朝8時から午後10時まで"
 								]
 				},
 				{
-					"time":	14,
+					"time":	28,
 					"ques"	:	"休みは何曜日ですか？",
-					"start_nosound":0,
-					"end_nosound":0,
+					"start_nosound":28,
+					"end_nosound":32,
 					"ans_len":1,
 					"ans"	:	[
-									"日曜日です"
+									"日曜日です",
+						                        "日曜日"
 								]
 				}
 			]
