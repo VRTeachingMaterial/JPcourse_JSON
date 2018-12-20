@@ -43,9 +43,9 @@
 			"clips"	:	
 			[
 				{
-					"time":	3,
+					"time":	2,
 					"ques"	:	"ここはどこですか？",
-					"start_nosound":3,
+					"start_nosound":2,
 					"end_nosound":7,
 					"ans_len":3,
 					"ans"	:	[
@@ -55,9 +55,9 @@
 								]
 				},
 				{
-					"time":	16,
+					"time":	17,
 					"ques"	:	"営業時間は何時から何時までですか？",
-					"start_nosound":16,
+					"start_nosound":17,
 					"end_nosound":23,
 					"ans_len":4,
 					"ans"	:	[
@@ -68,9 +68,9 @@
 								]
 				},
 				{
-					"time":	28,
+					"time":	29,
 					"ques"	:	"休みは何曜日ですか？",
-					"start_nosound":28,
+					"start_nosound":29,
 					"end_nosound":32,
 					"ans_len":1,
 					"ans"	:	[
