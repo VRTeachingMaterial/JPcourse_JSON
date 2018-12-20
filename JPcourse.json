@@ -3,7 +3,7 @@
 	"courses":
 	[
 		{
-			"name":"Class room",
+			"name":"教室(短い)",
 			"youtube_id":"n3LUSPAN9cI",
 			"clips_len":2,
 			"clips"	:	
@@ -82,7 +82,7 @@
 		},
 
 		{
-			"name":"Convenient store",
+			"name":"コンビニ(短い)",
 			"youtube_id":"vcO9sVSZsBk",
 			"clips_len":3,
 			"clips"	:	
@@ -123,7 +123,7 @@
 		},
 
 		{
-			"name":"RT Mart",
+			"name":"売り場(短い)",
 			"youtube_id":"TbYqYGD2pmA",
 			"clips_len":3,
 			"clips"	:	
@@ -168,7 +168,7 @@
 		},
 		
 		{
-			"name":"Breakfast store",
+			"name":"朝ごはんの店(短い)",
 			"youtube_id":"0qebQ4wY6DI",
 			"clips_len":2,
 			"clips"	:	
@@ -352,7 +352,7 @@
 		},
 		
 		{
-			"name":"売り場（寫作實務版）",
+			"name":"売り場（長い）",
 			"youtube_id":"lhUiElUPTjQ",
 			"clips_len":8,
 			"clips"	:	
