@@ -43,9 +43,9 @@
 			"clips"	:	
 			[
 				{
-					"time":	2,
+					"time":	3,
 					"ques"	:	"ここはどこですか？",
-					"start_nosound":2,
+					"start_nosound":3,
 					"end_nosound":7,
 					"ans_len":3,
 					"ans"	:	[
