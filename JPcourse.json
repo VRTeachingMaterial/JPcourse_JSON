@@ -1,5 +1,5 @@
 {
-	"course_length":8,
+	"course_length":9,
 	"courses":
 	[
 		{
@@ -446,6 +446,160 @@
 					"ans"	:	[
 									"80元です",
 						                        "80元"
+								]
+				}
+			]
+		},
+		
+		{
+			"name":"キャンパス案内(確認更改地方)",
+			"youtube_id":"Jr9ten4DANo",
+			"clips_len":13,
+			"clips"	:	
+			[
+				{
+					"time":	3,
+					"ques"	:"",
+					"start_nosound":3,
+					"end_nosound":5,
+					"ans_len":2,
+					"ans"	:	[
+									"元智大学です",
+									"元智大学"
+								]
+				},
+				{
+					"time":	16,
+					"ques"	:	"ここはどこですか？",
+					"start_nosound":16,
+					"end_nosound":21,
+					"ans_len":2,
+					"ans"	:	[
+									"駐車場です",
+		                                                        "ここは駐車場です"
+					                        ]
+				},
+				{
+					"time":	33,
+					"ques"	:	"",
+					"start_nosound":33,
+					"end_nosound":35,
+					"ans_len":2,
+					"ans"	:	[
+									"一号館です",
+						                        "１号館です"
+								]
+				},
+				{
+					"time":	60,
+					"ques"	:	"",
+					"start_nosound":60,
+					"end_nosound":62,
+					"ans_len":2,
+					"ans"	:	[
+									"郵便局もあります",
+						                        "郵便局があります"
+								]
+				},
+			        {
+					"time":	81,
+					"ques"	:	"あそこにある丸い建物は何の建物ですか？",
+					"start_nosound":81,
+					"end_nosound":83,
+					"ans_len":2,
+					"ans"	:	[
+									"六号館です",
+						                        "6号館です"
+								]
+				},
+			        {
+					"time":	114,
+					"ques"	:	"応用外国語学科は、どの建物に入っていますか？",
+					"start_nosound":114,
+					"end_nosound":117,
+					"ans_len":4,
+					"ans"	:	[
+					                                 "五号館です",
+						                         "五号館に入っています",
+						                         "５号館です",
+						                         "５号館に入っています"
+								]
+				},
+				{
+					"time":	134,
+					"ques"	:	"",
+					"start_nosound":134,
+					"end_nosound":137,
+					"ans_len":2,
+					"ans"	:	[
+									"二号館です",
+						                        "２号館です"
+								]
+				},
+				{
+					"time":	142,
+					"ques"	:	"",
+					"start_nosound":142,
+					"end_nosound":146,
+					"ans_len":2,
+					"ans"	:	[
+									"三号館です",
+						                        "３号館です"
+								]
+				},
+				{
+					"time":	165,
+					"ques"	:	"",
+					"start_nosound":165,
+					"end_nosound":168,
+					"ans_len":2,
+					"ans"	:	[
+									"七号館です",
+						                        "７号館です"
+								]
+				},
+				{
+					"time":	188,
+					"ques"	:	"一号館は、一番古い建物ですが、七号館は、大学で、一番________",
+					"start_nosound":188,
+					"end_nosound":192,
+					"ans_len":1,
+					"ans"	:	[
+									"新しい建物です"
+								]
+				},
+				{
+					"time":	206,
+					"ques"	:	"",
+					"start_nosound":206,
+					"end_nosound":210,
+					"ans_len":2,
+					"ans"	:	[
+									"運動場です",
+						                        "運動場"
+								]
+				},
+				{
+					"time":	221,
+					"ques"	:	"",
+					"start_nosound":221,
+					"end_nosound":224,
+					"ans_len":2,
+					"ans"	:	[
+									"プールがあります",
+						                        "室内プールがあります"
+								]
+				},
+		                {
+					"time":	240,
+					"ques"	:	"",
+					"start_nosound":240,
+					"end_nosound":242,
+					"ans_len":3,
+					"ans"	:	[
+									"宿舎です",
+						                        "学生宿舎です",
+						                        "寮です"
 								]
 				}
 			]
