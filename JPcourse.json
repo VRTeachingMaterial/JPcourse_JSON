@@ -211,10 +211,10 @@
 			"clips"	:	
 			[
 				{
-					"time":	4,
+					"time":	5,
 					"ques"	:"Ｂさん、なにを 買いますか？",
-					"start_nosound":4,
-					"end_nosound":8,
+					"start_nosound":5,
+					"end_nosound":10,
 					"ans_len":3,
 					"ans"	:	[
 									"インスタントラーメンを買いたいです",
@@ -223,10 +223,10 @@
 								]
 				},
 				{
-					"time":	17,
+					"time":	22,
 					"ques"	:       "どんな味が好きですか？",
-					"start_nosound":17,
-					"end_nosound":21,
+					"start_nosound":22,
+					"end_nosound":27,
 					"ans_len":4,
 					"ans"	:	[
 									"辛い味のが好きです",
@@ -236,10 +236,10 @@
 					                        ]
 				},
 				{
-					"time":	47,
+					"time":	56,
 					"ques"	:        "何かほかに買いたいものは、ありますか？",
-					"start_nosound":47,
-					"end_nosound":51,
+					"start_nosound":56,
+					"end_nosound":63,
 					"ans_len":4,
 					"ans"	:	[
 									"果物を買いたいです",
@@ -249,10 +249,10 @@
 								]
 				},
 			 {
-					"time":	70,
+					"time":	86,
 					"ques"	:	"一番好きな果物は、何ですか？",
-					"start_nosound":70,
-					"end_nosound":73,
+					"start_nosound":86,
+					"end_nosound":91,
 					"ans_len":3,
 					"ans"	:	[
 									"みかんです",
@@ -261,10 +261,10 @@
 								]
 				},
 			{
-					"time":	80,
+					"time":	99,
 					"ques"	:	"Aさんは、何が一番好きですか？",
-					"start_nosound":80,
-					"end_nosound":83,
+					"start_nosound":99,
+					"end_nosound":104,
 					"ans_len":3,
 					"ans"	:	[
 					                                 "リンゴです",
@@ -273,10 +273,10 @@
 								]
 				},
 				{
-					"time":	93,
+					"time":	116,
 					"ques"	:	"",
-					"start_nosound":93,
-					"end_nosound":96,
+					"start_nosound":122,
+					"end_nosound":122,
 					"ans_len":4,
 					"ans"	:	[
 									"45元です",
@@ -286,10 +286,10 @@
 								]
 				},
 				{
-					"time":	115,
+					"time":	140,
 					"ques"	:	"",
-					"start_nosound":115,
-					"end_nosound":118,
+					"start_nosound":140,
+					"end_nosound":144,
 					"ans_len":2,
 					"ans"	:	[
 									"牛乳",
@@ -297,10 +297,10 @@
 								]
 				},
 				{
-					"time":	131,
+					"time":	162,
 					"ques"	:	"",
-					"start_nosound":131,
-					"end_nosound":134,
+					"start_nosound":162,
+					"end_nosound":167,
 					"ans_len":4,
 					"ans"	:	[
 									"80元です",
