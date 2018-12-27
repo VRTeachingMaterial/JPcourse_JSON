@@ -127,7 +127,7 @@
 		},
 
 		{
-			"name":"売り場(短い)",
+			"name":"スーパー(短い)",
 			"youtube_id":"TbYqYGD2pmA",
 			"clips_len":3,
 			"clips"	:	
@@ -203,163 +203,9 @@
 				}
 			]
 		},
-		{
-			"name":"キャンパス案内",
-			"youtube_id":"l_VrCgbRS9Q",
-			"clips_len":6,
-			"clips"	:	
-			[
-				{
-					"time":	1,
-					"ques"	:"",
-					"start_nosound":1,
-					"end_nosound":2,
-					"ans_len":2,
-					"ans"	:	[
-									"元智大学です",
-									"元智大学"
-								]
-				},
-				{
-					"time":	11,
-					"ques"	:	"ここはどこですか？",
-					"start_nosound":11,
-					"end_nosound":14,
-					"ans_len":2,
-					"ans"	:	[
-									"駐車場です",
-		                                                        "ここは駐車場です"
-					                        ]
-				},
-				{
-					"time":	23,
-					"ques"	:	"",
-					"start_nosound":23,
-					"end_nosound":24,
-					"ans_len":1,
-					"ans"	:	[
-									"一号館です"
-								]
-				},
-			 {
-					"time":	58,
-					"ques"	:	"",
-					"start_nosound":58,
-					"end_nosound":59,
-					"ans_len":1,
-					"ans"	:	[
-									"六号館です"
-								]
-				},
-				{
-					"time":	107,
-					"ques"	:	"",
-					"start_nosound":107,
-					"end_nosound":111,
-					"ans_len":2,
-					"ans"	:	[
-									"応用外国語学科は5号館です",
-						                        "五号館です"
-								]
-				},
-				{
-					"time":	133,
-					"ques"	:	"",
-					"start_nosound":133,
-					"end_nosound":135,
-					"ans_len":1,
-					"ans"	:	[
-									"図書館があります"
-								]
-				}
-			]
-		},
 		
 		{
-			"name":"キャンパス案内(新)",
-			"youtube_id":"nxkG3VB2ebI",
-			"clips_len":7,
-			"clips"	:	
-			[
-				{
-					"time":	4,
-					"ques"	:"",
-					"start_nosound":4,
-					"end_nosound":6,
-					"ans_len":2,
-					"ans"	:	[
-									"元智大学です",
-									"元智大学"
-								]
-				},
-				{
-					"time":	15,
-					"ques"	:	"ここはどこですか？",
-					"start_nosound":15,
-					"end_nosound":18,
-					"ans_len":2,
-					"ans"	:	[
-									"駐車場です",
-		                                                        "ここは駐車場です"
-					                        ]
-				},
-				{
-					"time":	30,
-					"ques"	:	"",
-					"start_nosound":30,
-					"end_nosound":32,
-					"ans_len":1,
-					"ans"	:	[
-									"一号館です"
-								]
-				},
-			 {
-					"time":	78,
-					"ques"	:	"あそこにある丸い建物は何の建物ですか？",
-					"start_nosound":78,
-					"end_nosound":80,
-					"ans_len":1,
-					"ans"	:	[
-									"六号館です"
-								]
-				},
-			{
-					"time":	133,
-					"ques"	:	"応用外国語学科は、どの建物に入っていますか？",
-					"start_nosound":133,
-					"end_nosound":135,
-					"ans_len":2,
-					"ans"	:	[
-					                                 "五号館です",
-						                         "五号館に入っています"
-								]
-				},
-				{
-					"time":	166,
-					"ques"	:	"5号館の1階には、何がありますか？",
-					"start_nosound":166,
-					"end_nosound":168,
-					"ans_len":1,
-					"ans"	:	[
-									"図書館があります"
-								]
-				},
-				{
-					"time":	178,
-					"ques"	:	"5号館の1階には、何がありますか？",
-					"start_nosound":178,
-					"end_nosound":179,
-					"ans_len":2,
-					"ans"	:	[
-									"コンビニもあります",
-						                        "コンビニがあります"
-								]
-				}
-			]
-		},
-		
-		{
-			"name":"売り場（長い）",
+			"name":"スーパー(長い)",
 			"youtube_id":"lhUiElUPTjQ",
 			"clips_len":8,
 			"clips"	:	
@@ -467,9 +313,9 @@
 		},
 		
 		{
-			"name":"キャンパス案内(確認更改地方)",
+			"name":"キャンパス案内(長い)",
 			"youtube_id":"Jr9ten4DANo",
-			"clips_len":13,
+			"clips_len":17,
 			"clips"	:	
 			[
 				{
@@ -479,8 +325,8 @@
 					"end_nosound":5,
 					"ans_len":2,
 					"ans"	:	[
-									"元智大学です",
-									"元智大学"
+									"元智大学です", 
+									"大学です"
 								]
 				},
 				{
@@ -502,7 +348,7 @@
 					"ans_len":2,
 					"ans"	:	[
 									"一号館です",
-						                        "１号館です"
+						                        "1号館です"
 								]
 				},
 				{
@@ -529,15 +375,58 @@
 				},
 			        {
 					"time":	114,
-					"ques"	:	"応用外国語学科は、どの建物に入っていますか？",
+					"ques"	:	"応用外国語学科は、どの建物にありますか？",
 					"start_nosound":114,
 					"end_nosound":117,
 					"ans_len":4,
 					"ans"	:	[
 					                                 "五号館です",
-						                         "五号館に入っています",
-						                         "５号館です",
-						                         "５号館に入っています"
+						                         "五号館にあります",
+						                         "5号館です",
+						                         "5号館にあります"
+								]
+				},
+				{
+					"time":	114,
+					"ques"	:	"応用外国語学科は、何階ですか？",
+					"start_nosound":114,
+					"end_nosound":117,
+					"ans_len":2,
+					"ans"	:	[
+					                                 "7階です",
+						                         "7階にあります"
+								]
+				},
+				{
+					"time":	114,
+					"ques"	:	"五号館の1階には、何がありますか？",
+					"start_nosound":114,
+					"end_nosound":117,
+					"ans_len":1,
+					"ans"	:	[
+					                                 "コンビニがあります"
+								]
+				},
+				{
+					"time":	114,
+					"ques"	:	"",
+					"start_nosound":114,
+					"end_nosound":117,
+					"ans_len":2,
+					"ans"	:	[
+					                                 "図書館もあります",
+						                         "図書館があります"
+								]
+				},
+				{
+					"time":	114,
+					"ques"	:	"図書館は、何時から何時までですか？",
+					"start_nosound":114,
+					"end_nosound":117,
+					"ans_len":2,
+					"ans"	:	[
+					                                 "朝8時から午後10時までです",
+						                         "朝八時から午後十時までです"
 								]
 				},
 				{
@@ -548,7 +437,7 @@
 					"ans_len":2,
 					"ans"	:	[
 									"二号館です",
-						                        "２号館です"
+						                        "2号館です"
 								]
 				},
 				{
@@ -559,7 +448,7 @@
 					"ans_len":2,
 					"ans"	:	[
 									"三号館です",
-						                        "３号館です"
+						                        "3号館です"
 								]
 				},
 				{
@@ -570,7 +459,7 @@
 					"ans_len":2,
 					"ans"	:	[
 									"七号館です",
-						                        "７号館です"
+						                        "7号館です"
 								]
 				},
 				{
@@ -578,9 +467,10 @@
 					"ques"	:	"一号館は、一番古い建物ですが、七号館は、大学で、一番________",
 					"start_nosound":188,
 					"end_nosound":192,
-					"ans_len":1,
+					"ans_len":2,
 					"ans"	:	[
-									"新しい建物です"
+									"新しい建物です",
+						                        "新しいです"
 								]
 				},
 				{
@@ -588,15 +478,14 @@
 					"ques"	:	"",
 					"start_nosound":206,
 					"end_nosound":210,
-					"ans_len":2,
+					"ans_len":1,
 					"ans"	:	[
-									"運動場です",
-						                        "運動場"
+									"運動場です"
 								]
 				},
 				{
 					"time":	221,
-					"ques"	:	"",
+					"ques"	:	"この建物の中に、何がありますか？",
 					"start_nosound":221,
 					"end_nosound":224,
 					"ans_len":2,
@@ -607,14 +496,15 @@
 				},
 		                {
 					"time":	240,
-					"ques"	:	"",
+					"ques"	:	"あの白い建物は、何ですか？",
 					"start_nosound":240,
 					"end_nosound":242,
-					"ans_len":3,
+					"ans_len":4,
 					"ans"	:	[
 									"宿舎です",
 						                        "学生宿舎です",
-						                        "寮です"
+						                        "寮です",
+						                        "学生寮です"
 								]
 				}
 			]
