@@ -211,9 +211,9 @@
 			"clips"	:	
 			[
 				{
-					"time":	4,
+					"time":	5,
 					"ques"	:"Ｂさん、なにを 買いますか？",
-					"start_nosound":4,
+					"start_nosound":5,
 					"end_nosound":10,
 					"ans_len":3,
 					"ans"	:	[
@@ -223,9 +223,9 @@
 								]
 				},
 				{
-					"time":	21,
+					"time":	22,
 					"ques"	:       "どんな味が好きですか？",
-					"start_nosound":21,
+					"start_nosound":22,
 					"end_nosound":27,
 					"ans_len":4,
 					"ans"	:	[
@@ -236,9 +236,9 @@
 					                        ]
 				},
 				{
-					"time":	55,
+					"time":	56,
 					"ques"	:        "何かほかに買いたいものは、ありますか？",
-					"start_nosound":55,
+					"start_nosound":56,
 					"end_nosound":63,
 					"ans_len":4,
 					"ans"	:	[
@@ -249,9 +249,9 @@
 								]
 				},
 			 {
-					"time":	84,
+					"time":	85,
 					"ques"	:	"一番好きな果物は、何ですか？",
-					"start_nosound":84,
+					"start_nosound":85,
 					"end_nosound":91,
 					"ans_len":3,
 					"ans"	:	[
@@ -261,9 +261,9 @@
 								]
 				},
 			{
-					"time":	98,
+					"time":	99,
 					"ques"	:	"Aさんは、何が一番好きですか？",
-					"start_nosound":98,
+					"start_nosound":99,
 					"end_nosound":104,
 					"ans_len":3,
 					"ans"	:	[
@@ -273,9 +273,9 @@
 								]
 				},
 				{
-					"time":	115,
+					"time":	116,
 					"ques"	:	"",
-					"start_nosound":115,
+					"start_nosound":116,
 					"end_nosound":122,
 					"ans_len":4,
 					"ans"	:	[
@@ -297,9 +297,9 @@
 								]
 				},
 				{
-					"time":	161,
+					"time":	160,
 					"ques"	:	"",
-					"start_nosound":161,
+					"start_nosound":160,
 					"end_nosound":167,
 					"ans_len":4,
 					"ans"	:	[
