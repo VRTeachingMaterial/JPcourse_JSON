@@ -319,9 +319,9 @@
 			"clips"	:	
 			[
 				{
-					"time":	5,
+					"time":	4,
 					"ques"	:"",
-					"start_nosound":5,
+					"start_nosound":4,
 					"end_nosound":10,
 					"ans_len":2,
 					"ans"	:	[
