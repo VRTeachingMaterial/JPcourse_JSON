@@ -314,15 +314,15 @@
 		
 		{
 			"name":"キャンパス案内(長い)",
-			"youtube_id":"Jr9ten4DANo",
+			"youtube_id":"3DfjkRrslH8",
 			"clips_len":17,
 			"clips"	:	
 			[
 				{
-					"time":	3,
+					"time":	5,
 					"ques"	:"",
-					"start_nosound":3,
-					"end_nosound":5,
+					"start_nosound":5,
+					"end_nosound":10,
 					"ans_len":2,
 					"ans"	:	[
 									"元智大学です", 
@@ -330,10 +330,10 @@
 								]
 				},
 				{
-					"time":	16,
+					"time":	22,
 					"ques"	:	"ここはどこですか？",
-					"start_nosound":16,
-					"end_nosound":21,
+					"start_nosound":22,
+					"end_nosound":25,
 					"ans_len":2,
 					"ans"	:	[
 									"駐車場です",
@@ -341,10 +341,10 @@
 					                        ]
 				},
 				{
-					"time":	33,
+					"time":	36,
 					"ques"	:	"",
-					"start_nosound":33,
-					"end_nosound":35,
+					"start_nosound":36,
+					"end_nosound":40,
 					"ans_len":2,
 					"ans"	:	[
 									"一号館です",
@@ -352,10 +352,10 @@
 								]
 				},
 				{
-					"time":	60,
+					"time":	67,
 					"ques"	:	"",
-					"start_nosound":60,
-					"end_nosound":62,
+					"start_nosound":67,
+					"end_nosound":71,
 					"ans_len":2,
 					"ans"	:	[
 									"郵便局もあります",
@@ -363,10 +363,10 @@
 								]
 				},
 			        {
-					"time":	81,
+					"time":	91,
 					"ques"	:	"あそこにある丸い建物は何の建物ですか？",
-					"start_nosound":81,
-					"end_nosound":83,
+					"start_nosound":91,
+					"end_nosound":95,
 					"ans_len":2,
 					"ans"	:	[
 									"六号館です",
@@ -374,10 +374,10 @@
 								]
 				},
 			        {
-					"time":	114,
+					"time":	129,
 					"ques"	:	"応用外国語学科は、どの建物にありますか？",
-					"start_nosound":114,
-					"end_nosound":117,
+					"start_nosound":129,
+					"end_nosound":131,
 					"ans_len":4,
 					"ans"	:	[
 					                                 "五号館です",
@@ -387,10 +387,10 @@
 								]
 				},
 				{
-					"time":	114,
+					"time":	157,
 					"ques"	:	"応用外国語学科は、何階ですか？",
-					"start_nosound":114,
-					"end_nosound":117,
+					"start_nosound":157,
+					"end_nosound":159,
 					"ans_len":2,
 					"ans"	:	[
 					                                 "7階です",
@@ -398,20 +398,20 @@
 								]
 				},
 				{
-					"time":	114,
+					"time":	173,
 					"ques"	:	"五号館の1階には、何がありますか？",
-					"start_nosound":114,
-					"end_nosound":117,
+					"start_nosound":173,
+					"end_nosound":159,
 					"ans_len":1,
 					"ans"	:	[
 					                                 "コンビニがあります"
 								]
 				},
 				{
-					"time":	114,
+					"time":	181,
 					"ques"	:	"",
-					"start_nosound":114,
-					"end_nosound":117,
+					"start_nosound":181,
+					"end_nosound":186,
 					"ans_len":2,
 					"ans"	:	[
 					                                 "図書館もあります",
@@ -419,10 +419,10 @@
 								]
 				},
 				{
-					"time":	114,
+					"time":	193,
 					"ques"	:	"図書館は、何時から何時までですか？",
-					"start_nosound":114,
-					"end_nosound":117,
+					"start_nosound":193,
+					"end_nosound":199,
 					"ans_len":2,
 					"ans"	:	[
 					                                 "朝8時から午後10時までです",
@@ -430,10 +430,10 @@
 								]
 				},
 				{
-					"time":	134,
+					"time":	218,
 					"ques"	:	"",
-					"start_nosound":134,
-					"end_nosound":137,
+					"start_nosound":218,
+					"end_nosound":221,
 					"ans_len":2,
 					"ans"	:	[
 									"二号館です",
@@ -441,10 +441,10 @@
 								]
 				},
 				{
-					"time":	142,
+					"time":	226,
 					"ques"	:	"",
-					"start_nosound":142,
-					"end_nosound":146,
+					"start_nosound":226,
+					"end_nosound":230,
 					"ans_len":2,
 					"ans"	:	[
 									"三号館です",
@@ -452,10 +452,10 @@
 								]
 				},
 				{
-					"time":	165,
+					"time":	251,
 					"ques"	:	"",
-					"start_nosound":165,
-					"end_nosound":168,
+					"start_nosound":251,
+					"end_nosound":255,
 					"ans_len":2,
 					"ans"	:	[
 									"七号館です",
@@ -463,10 +463,10 @@
 								]
 				},
 				{
-					"time":	188,
+					"time":	277,
 					"ques"	:	"一号館は、一番古い建物ですが、七号館は、大学で、一番________",
-					"start_nosound":188,
-					"end_nosound":192,
+					"start_nosound":277,
+					"end_nosound":281,
 					"ans_len":2,
 					"ans"	:	[
 									"新しい建物です",
@@ -474,20 +474,20 @@
 								]
 				},
 				{
-					"time":	206,
+					"time":	295,
 					"ques"	:	"",
-					"start_nosound":206,
-					"end_nosound":210,
+					"start_nosound":295,
+					"end_nosound":300,
 					"ans_len":1,
 					"ans"	:	[
 									"運動場です"
 								]
 				},
 				{
-					"time":	221,
+					"time":	311,
 					"ques"	:	"この建物の中に、何がありますか？",
-					"start_nosound":221,
-					"end_nosound":224,
+					"start_nosound":311,
+					"end_nosound":315,
 					"ans_len":2,
 					"ans"	:	[
 									"プールがあります",
@@ -495,10 +495,10 @@
 								]
 				},
 		                {
-					"time":	240,
+					"time":	328,
 					"ques"	:	"あの白い建物は、何ですか？",
-					"start_nosound":240,
-					"end_nosound":242,
+					"start_nosound":328,
+					"end_nosound":331,
 					"ans_len":4,
 					"ans"	:	[
 									"宿舎です",
