@@ -252,11 +252,12 @@
                     "ques": "Aさんは、何が一番好きですか？",
                     "start_nosound": 99,
                     "end_nosound": 104,
-                    "ans_len": 3,
+                    "ans_len": 4,
                     "ans": [
                         "リンゴです",
                         "リンゴが一番好きです",
                         "リンゴ"
+                        "りんご"
                     ]
                 },
                 {
@@ -304,9 +305,9 @@
             "clips_len": 17,
             "clips": [
                 {
-                    "time": 4,
+                    "time": 3.,
                     "ques": "",
-                    "start_nosound": 4,
+                    "start_nosound": 3,
                     "end_nosound": 10,
                     "ans_len": 2,
                     "ans": [
@@ -348,9 +349,9 @@
                     ]
                 },
                 {
-                    "time": 91,
+                    "time": 92,
                     "ques": "あそこにある丸い建物は何の建物ですか？",
-                    "start_nosound": 91,
+                    "start_nosound": 92,
                     "end_nosound": 95,
                     "ans_len": 2,
                     "ans": [
@@ -383,9 +384,9 @@
                     ]
                 },
                 {
-                    "time": 173,
+                    "time": 174.,
                     "ques": "五号館の1階には、何がありますか？",
-                    "start_nosound": 173,
+                    "start_nosound": 174,
                     "end_nosound": 159,
                     "ans_len": 1,
                     "ans": [
@@ -404,9 +405,9 @@
                     ]
                 },
                 {
-                    "time": 193,
+                    "time": 194,
                     "ques": "図書館は、何時から何時までですか？",
-                    "start_nosound": 193,
+                    "start_nosound": 19,
                     "end_nosound": 199,
                     "ans_len": 2,
                     "ans": [
@@ -469,9 +470,9 @@
                     ]
                 },
                 {
-                    "time": 311,
+                    "time": 310,
                     "ques": "この建物の中に、何がありますか？",
-                    "start_nosound": 311,
+                    "start_nosound": 310.0,
                     "end_nosound": 315,
                     "ans_len": 2,
                     "ans": [
