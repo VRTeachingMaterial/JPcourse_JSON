@@ -200,7 +200,7 @@
                 {
                     "time": 6,
                     "ques": "Ｂさん、なにを 買いますか？",
-                    "start_nosound": 6月,
+                    "start_nosound": 6,
                     "end_nosound": 10,
                     "ans_len": 3,
                     "ans": [
@@ -223,9 +223,9 @@
                     ]
                 },
                 {
-                    "time": 55,
+                    "time": 54,
                     "ques": "何かほかに買いたいものは、ありますか？",
-                    "start_nosound": 55,
+                    "start_nosound": 54,
                     "end_nosound": 63,
                     "ans_len": 4,
                     "ans": [
@@ -236,9 +236,9 @@
                     ]
                 },
                 {
-                    "time": 83,
+                    "time": 82,
                     "ques": "一番好きな果物は、何ですか？",
-                    "start_nosound": 83,
+                    "start_nosound": 82,
                     "end_nosound": 91,
                     "ans_len": 3,
                     "ans": [
@@ -251,7 +251,7 @@
                     "time": 99,
                     "ques": "Aさんは、何が一番好きですか？",
                     "start_nosound": 99,
-                    "end_nosound": 104,
+                    "end_nosound": 103,
                     "ans_len": 4,
                     "ans": [
                         "リンゴです",
