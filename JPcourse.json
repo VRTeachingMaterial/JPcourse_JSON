@@ -223,9 +223,9 @@
                     ]
                 },
                 {
-                    "time": 54,
+                    "time": 53,
                     "ques": "何かほかに買いたいものは、ありますか？",
-                    "start_nosound": 54,
+                    "start_nosound": 53,
                     "end_nosound": 63,
                     "ans_len": 4,
                     "ans": [
