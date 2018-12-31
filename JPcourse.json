@@ -223,9 +223,9 @@
                     ]
                 },
                 {
-                    "time": 53,
+                    "time": 55,
                     "ques": "何かほかに買いたいものは、ありますか？",
-                    "start_nosound": 53,
+                    "start_nosound": 55,
                     "end_nosound": 63,
                     "ans_len": 4,
                     "ans": [
@@ -236,9 +236,9 @@
                     ]
                 },
                 {
-                    "time": 82,
+                    "time": 83,
                     "ques": "一番好きな果物は、何ですか？",
-                    "start_nosound": 82,
+                    "start_nosound": 83,
                     "end_nosound": 91,
                     "ans_len": 3,
                     "ans": [
