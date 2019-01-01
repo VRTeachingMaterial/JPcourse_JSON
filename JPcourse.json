@@ -312,7 +312,7 @@
             "clips_len": 17,
             "clips": [
                 {
-                    "time": 3.,
+                    "time": 3,
                     "ques": "",
                     "start_nosound": 3,
                     "end_nosound": 10,
