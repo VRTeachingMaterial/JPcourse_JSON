@@ -518,9 +518,10 @@
                     "ques": "初めまして、私は蕭です",
                     "start_nosound": 7,
                     "end_nosound": 11,
-                    "ans_len": 1,
+                    "ans_len": 2,
                     "ans": [
                         "呉です",
+                        "ごです"
                     ]
                 },
                 {
@@ -530,7 +531,7 @@
                     "end_nosound": 20,
                     "ans_len": 1,
                     "ans": [
-                        "学長です",
+                        "学長です"
                     ]
                 }
             ]
@@ -541,13 +542,14 @@
             "clips_len": 2,
             "clips": [
                 {
-                    "time": 6,
+                    "time": 7,
                     "ques": "初めまして、私は蕭です",
-                    "start_nosound": 6,
+                    "start_nosound": 7,
                     "end_nosound": 10,
-                    "ans_len": 1,
+                    "ans_len": 2,
                     "ans": [
-                        "邱です"
+                        "邱です",
+                        "きゅうです"
                     ]
                 },
                 {
