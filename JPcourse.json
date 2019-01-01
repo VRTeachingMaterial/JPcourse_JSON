@@ -381,7 +381,7 @@
                     "time": 157,
                     "ques": "応用外国語学科は、何階ですか？",
                     "start_nosound": 157,
-                    "end_nosound": 159,
+                    "end_nosound": 160,
                     "ans_len": 2,
                     "ans": [
                         "7階です",
@@ -392,7 +392,7 @@
                     "time": 174.,
                     "ques": "五号館の1階には、何がありますか？",
                     "start_nosound": 174,
-                    "end_nosound": 159,
+                    "end_nosound": 179,
                     "ans_len": 1,
                     "ans": [
                         "コンビニがあります"
@@ -412,7 +412,7 @@
                 {
                     "time": 194,
                     "ques": "図書館は、何時から何時までですか？",
-                    "start_nosound": 19,
+                    "start_nosound": 194,
                     "end_nosound": 199,
                     "ans_len": 8,
                     "ans": [
@@ -438,9 +438,9 @@
                     ]
                 },
                 {
-                    "time": 226,
+                    "time": 227,
                     "ques": "",
-                    "start_nosound": 226,
+                    "start_nosound": 227,
                     "end_nosound": 230,
                     "ans_len": 2,
                     "ans": [
