@@ -509,13 +509,13 @@
             ]
         },
         {
-            "name": "学長(短い)",
+            "name": "自己紹介(学長)",
             "youtube_id": "n3LUSPAN9cI",
             "clips_len": 2,
             "clips": [
                 {
                     "time": 5,
-                    "ques": "初めまして、私は蕭です？",
+                    "ques": "初めまして、私は蕭です",
                     "start_nosound": 0,
                     "end_nosound": 0,
                     "ans_len": 1,
@@ -525,7 +525,7 @@
                 },
                 {
                     "time": 14,
-                    "ques": "私は学生です？",
+                    "ques": "私は学生です",
                     "start_nosound": 0,
                     "end_nosound": 0,
                     "ans_len": 1,
@@ -536,23 +536,23 @@
             ]
         },
         {
-            "name": "学部長(短い)",
+            "name": "自己紹介(学部長)",
             "youtube_id": "n3LUSPAN9cI",
             "clips_len": 2,
             "clips": [
                 {
                     "time": 5,
-                    "ques": "初めまして、私は蕭です？",
+                    "ques": "初めまして、私は蕭です",
                     "start_nosound": 0,
                     "end_nosound": 0,
                     "ans_len": 1,
                     "ans": [
-                        "邱です",
+                        "邱です"
                     ]
                 },
                 {
                     "time": 14,
-                    "ques": "私は学生です？",
+                    "ques": "私は学生です",
                     "start_nosound": 0,
                     "end_nosound": 0,
                     "ans_len": 1,
