@@ -51,9 +51,9 @@
                     ]
                 },
                 {
-                    "time": 17,
+                    "time": 16,
                     "ques": "営業時間は何時から何時までですか？",
-                    "start_nosound": 17,
+                    "start_nosound": 16,
                     "end_nosound": 23,
                     "ans_len": 8,
                     "ans": [
