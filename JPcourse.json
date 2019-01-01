@@ -389,9 +389,9 @@
                     ]
                 },
                 {
-                    "time": 174.,
+                    "time": 173,
                     "ques": "五号館の1階には、何がありますか？",
-                    "start_nosound": 174,
+                    "start_nosound": 173,
                     "end_nosound": 179,
                     "ans_len": 1,
                     "ans": [
