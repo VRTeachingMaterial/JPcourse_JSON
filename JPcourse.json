@@ -541,20 +541,20 @@
             "clips_len": 2,
             "clips": [
                 {
-                    "time": 5,
+                    "time": 6,
                     "ques": "初めまして、私は蕭です",
-                    "start_nosound": 0,
-                    "end_nosound": 0,
+                    "start_nosound": 6,
+                    "end_nosound": 10,
                     "ans_len": 1,
                     "ans": [
                         "邱です"
                     ]
                 },
                 {
-                    "time": 14,
+                    "time": 16,
                     "ques": "私は学生です",
-                    "start_nosound": 0,
-                    "end_nosound": 0,
+                    "start_nosound": 16,
+                    "end_nosound": 20,
                     "ans_len": 1,
                     "ans": [
                         "学部長です"
