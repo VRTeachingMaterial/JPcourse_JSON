@@ -241,9 +241,9 @@
                     ]
                 },
                 {
-                    "time": 82,
+                    "time": 83,
                     "ques": "一番好きな果物は、何ですか？",
-                    "start_nosound": 82,
+                    "start_nosound": 83,
                     "end_nosound": 91,
                     "ans_len": 3,
                     "ans": [
@@ -268,9 +268,9 @@
                     ]
                 },
                 {
-                    "time": 115,
+                    "time": 116,
                     "ques": "",
-                    "start_nosound": 115,
+                    "start_nosound": 116,
                     "end_nosound": 122,
                     "ans_len": 4,
                     "ans": [
