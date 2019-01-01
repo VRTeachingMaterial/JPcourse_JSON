@@ -333,7 +333,7 @@
                 },
                 {
                     "time": 36,
-                    "ques": "",
+                    "ques": "ここは______",
                     "start_nosound": 36,
                     "end_nosound": 40,
                     "ans_len": 2,
@@ -344,7 +344,7 @@
                 },
                 {
                     "time": 67,
-                    "ques": "",
+                    "ques": "1号館には教室や研究室のほかに、_____",
                     "start_nosound": 67,
                     "end_nosound": 71,
                     "ans_len": 2,
