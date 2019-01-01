@@ -332,9 +332,9 @@
                     ]
                 },
                 {
-                    "time": 36,
-                    "ques": "ここは______",
-                    "start_nosound": 36,
+                    "time": 37,
+                    "ques": "",
+                    "start_nosound": 37,
                     "end_nosound": 40,
                     "ans_len": 2,
                     "ans": [
