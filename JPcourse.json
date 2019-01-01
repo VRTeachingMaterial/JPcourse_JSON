@@ -510,24 +510,24 @@
         },
         {
             "name": "自己紹介(学長)",
-            "youtube_id": "n3LUSPAN9cI",
+            "youtube_id": "DnOl694lGag",
             "clips_len": 2,
             "clips": [
                 {
-                    "time": 5,
+                    "time": 7,
                     "ques": "初めまして、私は蕭です",
-                    "start_nosound": 0,
-                    "end_nosound": 0,
+                    "start_nosound": 7,
+                    "end_nosound": 11,
                     "ans_len": 1,
                     "ans": [
                         "呉です",
                     ]
                 },
                 {
-                    "time": 14,
+                    "time": 16,
                     "ques": "私は学生です",
-                    "start_nosound": 0,
-                    "end_nosound": 0,
+                    "start_nosound": 16,
+                    "end_nosound": 20,
                     "ans_len": 1,
                     "ans": [
                         "学長です",
