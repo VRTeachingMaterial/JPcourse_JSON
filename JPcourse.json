@@ -2,7 +2,7 @@
     "course_length": 9,
     "courses": [
         {
-            "name": "教室(短い)",
+            "name": "1.教室(短い)",
             "youtube_id": "n3LUSPAN9cI",
             "clips_len": 2,
             "clips": [
@@ -34,7 +34,7 @@
             ]
         },
         {
-            "name": "図書館(短い)",
+            "name": "2.図書館(短い)",
             "youtube_id": "MbV6wy7YMEA",
             "clips_len": 3,
             "clips": [
@@ -77,7 +77,7 @@
             ]
         },
         {
-            "name": "コンビニ(短い)",
+            "name": "3.コンビニ(短い)",
             "youtube_id": "vcO9sVSZsBk",
             "clips_len": 3,
             "clips": [
@@ -120,7 +120,36 @@
             ]
         },
         {
-            "name": "スーパー(短い)",
+            "name": "4.朝ごはんの店(短い)",
+            "youtube_id": "0qebQ4wY6DI",
+            "clips_len": 2,
+            "clips": [
+                {
+                    "time": 2,
+                    "ques": "おはようございます",
+                    "start_nosound": 0,
+                    "end_nosound": 0,
+                    "ans_len": 2,
+                    "ans": [
+                        "おはようございます",
+                        "おはよう"
+                    ]
+                },
+                {
+                    "time": 8,
+                    "ques": "この店は 何の店ですか？",
+                    "start_nosound": 0,
+                    "end_nosound": 0,
+                    "ans_len": 2,
+                    "ans": [
+                        "朝ごはんの店です",
+                        "朝ごはんの店"
+                    ]
+                }
+            ]
+        },
+         {
+            "name": "5.スーパー(短い)",
             "youtube_id": "TbYqYGD2pmA",
             "clips_len": 3,
             "clips": [
@@ -164,36 +193,7 @@
             ]
         },
         {
-            "name": "朝ごはんの店(短い)",
-            "youtube_id": "0qebQ4wY6DI",
-            "clips_len": 2,
-            "clips": [
-                {
-                    "time": 2,
-                    "ques": "おはようございます",
-                    "start_nosound": 0,
-                    "end_nosound": 0,
-                    "ans_len": 2,
-                    "ans": [
-                        "おはようございます",
-                        "おはよう"
-                    ]
-                },
-                {
-                    "time": 8,
-                    "ques": "この店は 何の店ですか？",
-                    "start_nosound": 0,
-                    "end_nosound": 0,
-                    "ans_len": 2,
-                    "ans": [
-                        "朝ごはんの店です",
-                        "朝ごはんの店"
-                    ]
-                }
-            ]
-        },
-        {
-            "name": "スーパー(長い)",
+            "name": "6.スーパー(長い)",
             "youtube_id": "YtqiXbc81QQ",
             "clips_len": 8,
             "clips": [
@@ -300,7 +300,7 @@
             ]
         },
         {
-            "name": "キャンパス案内(長い)",
+            "name": "7.キャンパス案内(長い)",
             "youtube_id": "3DfjkRrslH8",
             "clips_len": 17,
             "clips": [
