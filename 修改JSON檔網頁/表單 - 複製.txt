@@ -1,0 +1,304 @@
+<!doctype html>
+<html lang="en">
+
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+  <meta name="description" content="">
+  <meta name="author" content="">
+  <link rel="icon" href="../../../../favicon.ico">
+
+  <title>修改表單</title>
+
+  <!-- Bootstrap core CSS -->
+  <link href="./dist/css/bootstrap.min.css" rel="stylesheet">
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+
+  <!-- Custom styles for this template -->
+  <link href="form-validation.css" rel="stylesheet">
+</head>
+
+<body class="bg-light">
+  <script>
+    var now_id = 0;
+    var getJSON = function () {
+      return $.ajax({
+        url: "https://vrteachingmaterial.github.io/JPcourse_JSON/JPcourse.json",
+        type: "GET",
+        dataType: "json",
+        error: function () {
+          alert("ERROR!!!");
+        }
+      })
+    };
+    var TOKEN_start = getJSON();
+    TOKEN_start.then(function (data) {
+      console.log(data);
+      $('#json_num').html(data.course_length);
+
+      var all_course = "";
+      for (let i = 0; i < data.course_length; i++) {
+        if (now_id == i) {
+          all_course +=
+            "<li class=\"list-group-item d-flex justify-content-between bg-light\"><div class=\"text-success\"><h6 class=\"my-0\">"
+            + data.courses[i].name
+            + "</h6><small>有"
+            + data.courses[i].clips_len
+            + "個問答</small></div><span class=\"text-success\">"
+            + data.courses[i].clips[data.courses[i].clips_len - 1].time
+            + "s</span></li>";
+          $('#now_name').html(data.courses[i].name);//XXXXXXXXXXXX
+          //form
+          $('#form_name').html(data.courses[i].name);//XXXXXXXXXXXX
+          $('#form_name').html(data.courses[i].name);
+          $('#form_name').html(data.courses[i].name);
+          $('#form_name').html(data.courses[i].name);
+          $('#form_name').html(data.courses[i].name);
+
+        } else {
+          all_course +=
+            "<li class=\"list-group-item d-flex justify-content-between lh-condensed\"><div><h6 class=\"my-0\">"
+            + data.courses[i].name
+            + "</h6><small class=\"text-muted\">有"
+            + data.courses[i].clips_len
+            + "個問答</small></div><span class=\"text-muted\">"
+            + data.courses[i].clips[data.courses[i].clips_len - 1].time
+            + "s</span></li>";
+        }
+      }
+      $('#json_all_course').html(all_course);
+
+
+      //https://api.github.com/repos/VRTeachingMaterial/JPcourse_JSON/contents/JPcourse.json
+
+      // 取得外層容器 myList
+      var GOGOGO = document.getElementById("ans_template");
+      // 建立一個 DocumentFragment，可以把它看作一個「虛擬的容器」
+      var fragment = document.createDocumentFragment();
+
+      //新增解答欄位
+      $('body').on('click', '#add_ans', function () {
+        let new_input = document.createElement("input");
+        new_input.type = "text";
+        new_input.className = "form-control";
+        new_input.placeholder = "";
+        new_input.value = "";
+        new_input.required = "required";
+
+        let new_div = document.createElement("div");
+        new_div.className = "invalid-feedback";
+        let textNode = document.createTextNode("有缺喔!");
+        new_div.appendChild(textNode);
+        ///////////////////////////////////////
+        fragment.appendChild(new_input);
+        fragment.appendChild(new_div);
+        GOGOGO.appendChild(fragment);
+      });
+      //刪除解答欄位
+      $('body').on('click', '#del_ans', function () {
+        if (GOGOGO.childElementCount == 2) {
+          alert("解答數量至少一個");
+        } else {
+          var remove_input = GOGOGO.getElementsByTagName('input')[GOGOGO.childElementCount / 2 - 1];
+          var remove_div = GOGOGO.getElementsByTagName('div')[GOGOGO.childElementCount / 2 - 1];
+          GOGOGO.removeChild(remove_input);
+          GOGOGO.removeChild(remove_div);
+        }
+      });
+    });
+    ////////////////////////////////////////////////////////////////////////////
+    ////////////////////////////////////////////////////////////////////////////
+    ////////////////////////////////////////////////////////////////////////////
+    ////////////////////////////////////////////////////////////////////////////
+    ////////////////////////////////////////////////////////////////////////////
+    ////////////////////////////////////////////////////////////////////////////
+    ////////////////////////////////////////////////////////////////////////////
+    ////////////////////////////////////////////////////////////////////////////
+    ////////////////////////////////////////////////////////////////////////////
+    //是要使用像上面的node，還是用複製的
+    //https://jsbin.com/xigocojuva/edit?html,js,output
+    //https://codeday.me/bug/20180924/262661.html
+
+    //新增QA欄位
+    $('body').on('click', '#add_QA', function () {
+    });
+    //刪除QA欄位
+    $('body').on('click', '#del_QA', function () {
+    });
+
+
+  </script>
+  <div class="container">
+    <div class="py-5 text-center">
+      <img class="d-block mx-auto mb-4" src="https://getbootstrap.com/assets/brand/bootstrap-solid.svg" alt="" width="72" height="72">
+      <h2>語言練習VR教室</h2>
+      <p class="lead">新增修改課程，修改完畢送出後，間隔5分鐘後查看測試，若又問題，請洽工程師。(201902)</p>
+    </div>
+
+    <div class="row">
+      <div class="col-md-4 order-md-2 mb-4">
+        <h4 class="d-flex justify-content-between align-items-center mb-3">
+          <span class="text-muted">所有課程</span>
+          <span class="badge badge-secondary badge-pill" id="json_num">3</span>
+        </h4>
+        <ul class="list-group mb-3" id="json_all_course"></ul>
+        <form class="card p-2">
+          <div class="input-group">
+            <input type="text" class="form-control" placeholder="課程關鍵字">
+            <div class="input-group-append">
+              <button type="submit" class="btn btn-secondary">查詢</button>
+            </div>
+          </div>
+        </form>
+      </div>
+
+      <div class="col-md-8 order-md-1">
+        <h4 class="mb-3 text-primary">課程</h4>
+        <form class="needs-validation" novalidate>
+          <div class="row">
+
+            <div class="col-md-6 mb-3">
+              <label for="Name">課程名稱
+                <span class="text-muted">(中英日皆可)</span>
+              </label>
+              <input type="text" class="form-control" id="firstName" placeholder="" value="" required>
+              <div class="invalid-feedback">
+                你忘了它!
+              </div>
+            </div>
+
+            <div class="col-md-6 mb-3">
+              <label for="ID">Youtube ID
+                <span class="text-muted">(網址後方watch?v="這個")</span>
+              </label>
+              <input type="text" class="form-control" id="" placeholder="" value="" required>
+              <div class="invalid-feedback">
+                你忘了它!
+              </div>
+            </div>
+          </div>
+
+          <hr class="mb-4">
+          <h4 class="mb-3 text-primary">問題&答案</h4>
+          <!-- **************************************************************** -->
+          <!-- **************************************************************** -->
+          <!-- **************************************************************** -->
+          <!-- **************************************************************** -->
+          <!-- **************************************************************** -->
+          <!-- **************************************************************** -->
+          <!-- **************************************************************** -->
+          <!-- **************************************************************** -->
+          <!-- **************************************************************** -->
+          <!-- **************************************************************** -->
+          <div id="QA_template">
+            <div class="row">
+              <div class="col-md-3 mb-3">
+                <label for="sound">是否需要消音</label>
+                <select class="custom-select d-block w-100" id="country" required>
+                  <option value="">選擇...</option>
+                  <option>是</option>
+                  <option>否</option>
+                </select>
+                <div class="invalid-feedback">
+                  你忘了它!
+                </div>
+              </div>
+              <div class="col-md-3 mb-3">
+                <label for="start_nosound">開始消音時間點</label>
+                <input type="text" class="form-control" id="" placeholder="" required>
+                <div class="invalid-feedback">
+                  你忘了它!
+                </div>
+              </div>
+              <div class="col-md-3 mb-3">
+                <label for="end_nosound">結束消音時間點</label>
+                <input type="text" class="form-control" id="" placeholder="" required>
+                <div class="invalid-feedback">
+                  你忘了它!
+                </div>
+              </div>
+            </div>
+            <div class="mb-4">
+              <label for="Ans">解答
+                <span class="text-muted">(若為特殊單字可能無法成功))</span>
+              </label>
+              <div id="ans_template">
+                <input type="text" class="form-control" placeholder="" value="" required>
+                <div class="invalid-feedback">有缺喔!</div>
+              </div>
+            </div>
+          </div>
+          <!-- **************************************************************** -->
+          <!-- **************************************************************** -->
+          <!-- **************************************************************** -->
+          <!-- **************************************************************** -->
+          <!-- **************************************************************** -->
+          <!-- **************************************************************** -->
+          <!-- **************************************************************** -->
+          <!-- **************************************************************** -->
+          <!-- **************************************************************** -->
+          <!-- **************************************************************** -->
+          <button type="button" class="btn btn-info" id="add_ans">新增(向下增加)解答</button>
+          <button type="button" class="btn btn-danger" id="del_ans">刪除(最後一個)解答</button>
+
+          <hr class="mb-4">
+          <button type="button" class="btn btn-info" id="add_QA">新增(向下增加)問題</button>
+          <button type="button" class="btn btn-danger" id="del_QA">刪除(最後一個)問題</button>
+
+
+          <hr class="mb-4">
+          <button href="#" class="btn btn-primary btn-lg btn-block" type="submit">提交課程</button>
+        </form>
+      </div>
+    </div>
+
+    <footer class="my-5 pt-5 text-muted text-center text-small">
+      <p class="mb-1">&copy; 2017-2018 Company Name</p>
+      <ul class="list-inline">
+        <li class="list-inline-item">
+          <a href="#">Privacy</a>
+        </li>
+        <li class="list-inline-item">
+          <a href="#">Terms</a>
+        </li>
+        <li class="list-inline-item">
+          <a href="#">Support</a>
+        </li>
+      </ul>
+    </footer>
+  </div>
+
+  <!-- Bootstrap core JavaScript
+    ================================================== -->
+  <!-- Placed at the end of the document so the pages load faster -->
+  <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo"
+    crossorigin="anonymous"></script>
+  <script>window.jQuery || document.write('<script src="./assets/js/vendor/jquery-slim.min.js"><\/script>')</script>
+  <script src="./assets/js/vendor/popper.min.js"></script>
+  <script src="./dist/js/bootstrap.min.js"></script>
+  <script src="./assets/js/vendor/holder.min.js"></script>
+  <script>
+      // Example starter JavaScript for disabling form submissions if there are invalid fields
+      (function () {
+        'use strict';
+
+        window.addEventListener('load', function () {
+          // Fetch all the forms we want to apply custom Bootstrap validation styles to
+          var forms = document.getElementsByClassName('needs-validation');
+
+          // Loop over them and prevent submission
+          var validation = Array.prototype.filter.call(forms, function (form) {
+            form.addEventListener('submit', function (event) {
+              if (form.checkValidity() === false) {
+                event.preventDefault();
+                event.stopPropagation();
+              }
+              form.classList.add('was-validated');
+            }, false);
+          });
+        }, false);
+      })();
+  </script>
+</body>
+
+</html>
