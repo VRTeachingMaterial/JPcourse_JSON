@@ -269,7 +269,7 @@
                 },
                 {
                     "time": 116,
-                    "ques": "",
+                    "ques": "リンゴは、一つ＿＿。",
                     "start_nosound": 116,
                     "end_nosound": 122,
                     "ans_len": 4,
@@ -282,18 +282,20 @@
                 },
                 {
                     "time": 139,
-                    "ques": "",
+                    "ques": "＿＿を買いたいです。",
                     "start_nosound": 139,
                     "end_nosound": 144,
-                    "ans_len": 2,
+                    "ans_len": 4,
                     "ans": [
                         "牛乳",
+                        "牛乳を買いたいです",
+                        "ミルクを買いたいです",
                         "ミルク"
                     ]
                 },
                 {
                     "time": 161,
-                    "ques": "",
+                    "ques": "ミルクは、一本＿＿。",
                     "start_nosound": 161,
                     "end_nosound": 167,
                     "ans_len": 4,
