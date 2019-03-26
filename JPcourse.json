@@ -241,10 +241,10 @@
                     ]
                 },
                 {
-                    "time": 87,
+                    "time": 88,
                     "ques": "一番好きな果物は、何ですか？",
-                    "start_nosound": 87,
-                    "end_nosound": 91,
+                    "start_nosound": 88,
+                    "end_nosound": 92,
                     "ans_len": 3,
                     "ans": [
                         "みかんです",
@@ -281,9 +281,9 @@
                     ]
                 },
                 {
-                    "time": 139,
+                    "time": 140,
                     "ques": "＿＿を買いたいです。",
-                    "start_nosound": 139,
+                    "start_nosound": 140,
                     "end_nosound": 144,
                     "ans_len": 4,
                     "ans": [
