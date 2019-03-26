@@ -215,9 +215,9 @@
                     ]
                 },
                 {
-                    "time": 20,
+                    "time": 21,
                     "ques": "どんな味が好きですか？",
-                    "start_nosound": 20,
+                    "start_nosound": 21,
                     "end_nosound": 27,
                     "ans_len": 4,
                     "ans": [
@@ -228,9 +228,9 @@
                     ]
                 },
                 {
-                    "time": 55,
+                    "time": 56,
                     "ques": "何かほかに買いたいものは、ありますか？",
-                    "start_nosound": 55,
+                    "start_nosound": 56,
                     "end_nosound": 63,
                     "ans_len": 4,
                     "ans": [
