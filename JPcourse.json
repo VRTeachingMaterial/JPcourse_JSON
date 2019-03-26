@@ -314,9 +314,9 @@
             "clips_len": 17,
             "clips": [
                 {
-                    "time": 3,
+                    "time": 4,
                     "ques": "",
-                    "start_nosound": 3,
+                    "start_nosound": 4,
                     "end_nosound": 10,
                     "ans_len": 2,
                     "ans": [
@@ -339,7 +339,7 @@
                     "time": 37,
                     "ques": "",
                     "start_nosound": 37,
-                    "end_nosound": 40,
+                    "end_nosound": 41,
                     "ans_len": 2,
                     "ans": [
                         "一号館です",
