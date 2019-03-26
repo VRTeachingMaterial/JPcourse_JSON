@@ -203,9 +203,9 @@
             "clips_len": 8,
             "clips": [
                 {
-                    "time": 8,
+                    "time": 7,
                     "ques": "Ｂさん、なにを 買いますか？",
-                    "start_nosound": 8,
+                    "start_nosound": 7,
                     "end_nosound": 10,
                     "ans_len": 3,
                     "ans": [
