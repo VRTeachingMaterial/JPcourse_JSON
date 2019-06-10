@@ -3,7 +3,7 @@
     "courses": [
 
 {
-	            "name": "売り場",
+	            "name": "(A班)売り場＿group1",
 	            "youtube_id": "J_fbupR8bMc",
 	            "clips_len": 3,
 	            "clips": [
@@ -47,7 +47,7 @@
 
 
                {
-            "name": "売り場",
+            "name": "(A班)売り場＿group2",
             "youtube_id": "Gcm2tsRMyUM",
             "clips_len": 3,
             "clips": [
@@ -94,7 +94,7 @@
 
 
 	                   {
-	            "name": "売り場‗group3",
+	            "name": "(A班)売り場＿group3",
 	            "youtube_id": " gkNY2Wr2T0",
 	            "clips_len": 3,
 	            "clips": [
@@ -137,7 +137,7 @@
 
 
 	            {
-	            "name": "売り場案内",
+	            "name": "(A班)売り場＿group4",
 	            "youtube_id": "",
 	            "clips_len": 3,
 	            "clips": [
@@ -181,7 +181,7 @@
 
 
 {
-            "name": "売り場",
+            "name": "(A班)売り場＿group5",
             "youtube_id": "YtqiXbc81QQ",
             "clips_len": 3,
             "clips": [
@@ -226,82 +226,6 @@
                     ]
                 },
 
-
-{
-            "name": "５号館の案内",
-            "youtube_id": "",
-            "clips_len": 4,
-            "clips": [
-                {
-                    "time": 6,
-                    "ques": "ここはどこですか？",
-                    "start_nosound": 6,
-                    "end_nosound": 10,
-                    "ans_len": 3,
-                    "ans": [
-                        "ここは図書館です。",
-                        "図書館です。"
-                    ]
-                },
-                {
-                    "time": 23,
-                    "ques": "そうする以外に ５号館の一階に 何かありますか？",
-                    "start_nosound": 23,
-                    "end_nosound": 27,
-                    "ans_len": 4,
-                    "ans": [
-                        "コンビニもありますよ。"
-                    ]
-                },
-                {
-                    "time": 58,
-                    "ques": "あなた達はどの教室で 日本語の 授業を受けますか？",
-                    "start_nosound": 58,
-                    "end_nosound": 63,
-                    "ans_len": 4,
-                    "ans": [
-                        "このコンピューター教室です。"
-                         ]
-                       },
-                      { "time": 66,
-                    "ques": "ここは本がたくさんありますね。ここはどこですか。？",
-                    "start_nosound": 66,
-                    "end_nosound": 70,
-                    "ans_len": 4,
-                    "ans": [
-                        "ここは図書室です。"
-                         ]
-
-                    ]
-                }
-
-
-                {
-                    "time": 35,
-                    "ques": "あなた達はどの教室で 日本語の 授業を受けますか？",
-                    "start_nosound": 35,
-                    "end_nosound": 37,
-                    "ans_len": 2,
-                    "ans": [
-                        "コンビニもありますよ。",
-                        
-                    ]
-                }
-            ]
-        },
-                {
-                    "time": 42,
-                    "ques": "ここは本がたくさんありますね。ここはどこですか。？",
-                    "start_nosound": 42,
-                    "end_nosound": 43,
-                    "ans_len": 2,
-                    "ans": [
-                        "ここは 図書室です。",
-                        
-                    ]
-                }
-            ]
-        },
 {
 	            "name": "(B班) 売り場＿group2",
 	            "youtube_id": "3DfjkRrslH8",
