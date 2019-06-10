@@ -132,9 +132,9 @@
                 }
              ] 
           },  
-	     {
+	    {
 	            "name": "(A班)売り場＿group4",
-	            "youtube_id": "m-6q3TJL2vU",
+	            "youtube_id": " m-6q3TJL2vU",
 	            "clips_len": 3,
 	            "clips": [
 	                {
@@ -157,17 +157,17 @@
 	                    "ans": [
 	                        "辛い味のが好きです",
 	                        "辛い味です"
-			    ]
-               　　　　　 },
-　　　　　　　　　　　　　　{
-　　　　　　　　　　　　　　"time":　41,
-                　　　    "ques":　"Ｂさん、何かほかに買いたいものは、ありますか？",
-　　　　　　　　　　　　　　"start_nosound": 46,
-                   　　　 "end_nosound": 50,
-                   　　　 "ans_len": 2,
-                   　　　 "ans": [
-                      　　  "果物を買いたいです",
-                       　　 "果物です"
+                ]
+                },
+　　　　　　　　{
+　　　　　　　　　　"time":　41,
+                    "ques":　"Ｂさん、何かほかに買いたいものは、ありますか？",
+　　　　　　　　　　"start_nosound": 46,
+                    "end_nosound": 50,
+                    "ans_len": 2,
+                    "ans": [
+                        "果物を買いたいです",
+                        "果物です"
            ]
         }
       ]
