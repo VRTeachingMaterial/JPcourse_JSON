@@ -1,8 +1,5 @@
 {
-    "course_length": 9,
-    "courses": [
-{
-	            "name": "(A班)売り場＿group1",
+	            "name": "売り場",
 	            "youtube_id": "J_fbupR8bMc",
 	            "clips_len": 3,
 	            "clips": [
@@ -27,70 +24,117 @@
 	                        "辛い味のか好きです",
 	                        "辛い味です"
 	                    ]
-                }
-            ]
-        },
+},
 	
                 {
                     "time": 50,
-                    "ques": "B さん、何か他に買いたいものは、ありますか？。",
+                    "ques": "B さん、何か他に買いたいものは、ありますか？",
                     "start_nosound": 42,
                     "end_nosound": 47,
                     "ans_len": 3,
                     "ans": [
                         "果物を買いたいで",
                         "果物です",
-                        "果物"
+"果物"
                     ]
                 }
             ]
-        },
-{
-	            "name": "(A班) 売り場＿group2",
-	            "youtube_id": "3DfjkRrslH8",
+        }
+
+
+               {
+            "name": "売り場",
+            "youtube_id": "Gcm2tsRMyUM",
+            "clips_len": 3,
+            "clips": [
+                {
+                    "time": 8,
+                    "ques": "Ｂさん、なにを 買いますか？",
+                    "start_nosound": 8,
+                    "end_nosound": 13,
+                    "ans_len": 3,
+                    "ans": [
+                        "インスタントラーメンを買いたいです",
+                        "インスタントラーメンを買います",
+                        "インスタントラーメン"
+                    ]
+                },
+                {
+                    "time": 20,
+                    "ques": "どんな味が好きですか？",
+                    "start_nosound": 20,
+                    "end_nosound": 25,
+                    "ans_len": 4,
+                    "ans": [
+                        "辛い味のが好きです",
+                        "辛いのが好きです",
+                        "辛い味が好きです",
+                        "辛いです"
+                    ]
+                },
+                {
+                    "time": 48,
+                    "ques": "何かほかに買いたいものは、ありますか？",
+                    "start_nosound": 48,
+                    "end_nosound": 51,
+                    "ans_len": 4,
+                    "ans": [
+                        "果物を買いたいです",
+                        "果物を買いたい",
+                        "果物",
+                        "果物です"
+                         ]
+                       }
+                    ]
+                },
+
+
+	                   {
+	            "name": "売り場‗group3",
+	            "youtube_id": " gkNY2Wr2T0",
 	            "clips_len": 3,
 	            "clips": [
 	                {
-	                    "time": 8,
+	                    "time": 19,
 	                    "ques": "Bさん、何を買いますか？",
-	                    "start_nosound": 8,
-	                    "end_nosound": 13,
-	                    "ans_len": 3,
+	                    "start_nosound": 16,
+	                    "end_nosound": 21,
+	                    "ans_len": 2,
 	                    "ans": [
-	                        "インスタントラーメンを買いたいで",
-	                        "インスタントラーメンです",
-　　　　　　　　　　　　"インスタントラーメン"
+	                        "インスタントラーメンをかいたいです",
+	                        "インスタントラーメンです"
 	                    ]
 	                },
 	                {
-	                    "time": 20,
-	                    "ques": "Bさん、どんな味が好きですか",
-	                    "start_nosound": 20,
-	                    "end_nosound": 25,
+	                    "time": 33,
+	                    "ques": " Bさんはどんなあじがすきですか？",
+	                    "start_nosound": 30,
+	                    "end_nosound": 36,
 	                    "ans_len": 2,
 	                    "ans": [
-	                        "辛い味のが好きです",
-	                        "辛い味のです"
+	                        "辛いです",
+	                        "辛い味のが好きです"
 	                    ]
                 }
             ]
         },
-　　　　{
 	
-	                    "time": 48,
-	                    "ques": "Bさん、何かほかに買いたいものは、ありますか？",
-	                    "start_nosound": 48,
-	                    "end_nosound": 51,
-	                    "ans_len": 3,
-	                    "ans": [
-	                        "果物を買いたいです",
-	                        "果物です",
-　　　　　　　　　　　　      "果物"
-	                    ]
-	        }
-{
-	            "name": "(A班) 売り場＿group4",
-	            "youtube_id": "3DfjkRrslH8",
+                {
+                    "time": 65,
+                    "ques": "Bさん、何がほかにかいたいものはありますか？",
+                    "start_nosound": 63,
+                    "end_nosound": 67,
+                    "ans_len": 2,
+                    "ans": [
+                        "果物をかいたいです",
+                        "果物です"
+                    ]
+                }
+
+
+	            {
+	            "name": "売り場案内",
+	            "youtube_id": "",
 	            "clips_len": 3,
 	            "clips": [
 	                {
@@ -100,7 +144,7 @@
 	                    "end_nosound": 7,
 	                    "ans_len": 2,
 	                    "ans": [
-	                        "インスタントラーメンを買いたいで",
+	                        "インスタントラーメンを買いたいです",
 	                        "インスタントラーメンです"
 	                    ]
 	                },
@@ -116,97 +160,118 @@
 	                    ]
                 },
 　　　　　　　　{
-　　　　　　　　　　"time":41,
-                    "ques":"Ｂさん、何かほかに買いたいものは、ありますか？"
+　　　　　　　　　　"time":　41,
+                    "ques":　"Ｂさん、何かほかに買いたいものは、ありますか？",
 　　　　　　　　　　"start_nosound": 46,
                     "end_nosound": 50,
                     "ans_len": 2,
                     "ans": [
                         "果物を買いたいです",
                         "果物です"
-            ]
-            {
-	            "name": "(A班) 売り場＿group5",
-	            "youtube_id": "3DfjkRrslH8",
-	            "clips_len": 5,
-	            "clips": [
-	                {
-	                    "time": 0,
-	                    "ques": "Bさん何を買いますか？",
-	                    "start_nosound": 5,
-	                    "end_nosound": 8
-	                    "ans_len": 1,
-	                    "ans": [
-	                        "インスタントラーメンを買いたいです",
-	                        ""
-	                    ]
-	                },
-	                {
-	                    "time": 22,
-	                    "ques": "いろいろな種類がありますね。Bさんは、どんな味が好きですか？",
-	                    "start_nosound": 22,
-	                    "end_nosound": 25,
-	                    "ans_len": 1
-	                    "ans": [
-	                        "辛い味のが好きです。",
-	                        ""
-	                    ]
-                }
-            ]
-        },
+           ]
+        }
+      ]
+   },
+        
 	
-                    "time": 28,
-                    "ques": "え！本当ですか？私わ辛い物が苦手です。そうですか。辛い物が苦手なら、これはどうですか？ぎゆうにくがあつて、からくないです",
 
-	                    "start_nosound": 30,
-	                    "end_nosound": 33
-	                    "ans_len": 1
-	                    "ans": [
-	                        "美味しいそうですね、じゃ、これはかいます。",
-	                        ""
-	                    ]
+
+{
+            "name": "売り場",
+            "youtube_id": "YtqiXbc81QQ",
+            "clips_len": 3,
+            "clips": [
+                {
+                    "time": 1,
+                    "ques": "Ｂさん、なにを 買いますか？",
+                    "start_nosound": 4,
+                    "end_nosound": 6,
+                    "ans_len": 2,
+                    "ans": [
+                        "インスタントラーメンを買いたいです",
+                        "インスタントラーメンを買います",
+                        "インスタントラーメン"
+                    ]
+                },
+                {
+                    "time": 14,
+                    "ques": "どんな味が好きですか？",
+                    "start_nosound": 17,
+                    "end_nosound": 18,
+                    "ans_len": 1,
+                    "ans": [
+                        "辛い味のが好きです",
+                        "辛いのが好きです",
+                        "辛い味が好きです",
+                        "辛いです"
+                    ]
+                },
+                {
+                    "time": 41,
+                    "ques": "何かほかに買いたいものは、ありますか？",
+                    "start_nosound": 47,
+                    "end_nosound": 48,
+                    "ans_len": 1,
+                    "ans": [
+                        "果物を買いたいです",
+                        "果物を買いたい",
+                        "果物",
+                        "果物です"
+                         ]
+                       }
+                    ]
+                },
+
+
+{
+            "name": "５号館の案内",
+            "youtube_id": "",
+            "clips_len": 4,
+            "clips": [
+                {
+                    "time": 6,
+                    "ques": "ここはどこですか？",
+                    "start_nosound": 6,
+                    "end_nosound": 10,
+                    "ans_len": 3,
+                    "ans": [
+                        "ここは図書館です。",
+                        "図書館です。"
+                    ]
+                },
+                {
+                    "time": 23,
+                    "ques": "そうする以外に ５号館の一階に 何かありますか？",
+                    "start_nosound": 23,
+                    "end_nosound": 27,
+                    "ans_len": 4,
+                    "ans": [
+                        "コンビニもありますよ。"
+                    ]
+                },
+                {
+                    "time": 58,
+                    "ques": "あなた達はどの教室で 日本語の 授業を受けますか？",
+                    "start_nosound": 58,
+                    "end_nosound": 63,
+                    "ans_len": 4,
+                    "ans": [
+                        "このコンピューター教室です。"
+                         ]
+                       },
+                      { "time": 66,
+                    "ques": "ここは本がたくさんありますね。ここはどこですか。？",
+                    "start_nosound": 66,
+                    "end_nosound": 70,
+                    "ans_len": 4,
+                    "ans": [
+                        "ここは図書室です。"
+                         ]
+
+                    ]
                 }
-            ]
-        },
-	
-	                    "time": 38,
-	                    "ques": "Bさん、何かほかに買いたいものは、ありますか？",
-	                    "start_nosound": 40,
-	                    "end_nosound": 43
-	                    "ans_len": 1,
-	                    "ans": [
-	                        "果物をかいたいです、じゃ、いつしょにいきましょう？",
-                            
-                            {
-	            "name": "(A班) 売り場＿group7",
-	            "youtube_id": "3DfjkRrslH8",
-	            "clips_len": 4,
-	            "clips": [
-	                {
-	                    "time": 4,
-	                    "ques": "ここはどこですか？",
-	                    "start_nosound": 4,
-	                    "end_nosound": 10,
-	                    "ans_len": 2,
-	                    "ans": [
-	                        "ここは図書館です",
-	                        "図書館です"
-	                    ]
-	                },
-	                {
-	                    "time": 22,
-	                    "ques": "そうする以外に ５号館の一階に 何かありますか？",
-	                    "start_nosound": 22,
-	                    "end_nosound": 25,
-	                    "ans_len": 2,
-	                    "ans": [
-	                        "コンビニもありますよ。",
-	                        
-	                    ]
-                }
-            ]
-        },
-	
+
+
                 {
                     "time": 35,
                     "ques": "あなた達はどの教室で 日本語の 授業を受けますか？",
