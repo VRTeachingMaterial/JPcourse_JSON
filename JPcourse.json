@@ -51,9 +51,9 @@
             "clips_len": 3,
             "clips": [
                 {
-                    "time": 8,
+                    "time": 9,
                     "ques": "Ｂさん、なにを 買いますか？",
-                    "start_nosound": 8,
+                    "start_nosound": 9,
                     "end_nosound": 13,
                     "ans_len": 3,
                     "ans": [
@@ -63,9 +63,9 @@
                     ]
                 },
                 {
-                    "time": 20,
+                    "time": 22,
                     "ques": "どんな味が好きですか？",
-                    "start_nosound": 20,
+                    "start_nosound": 22,
                     "end_nosound": 25,
                     "ans_len": 4,
                     "ans": [
@@ -76,10 +76,10 @@
                     ]
                 },
                 {
-                    "time": 48,
+                    "time": 50,
                     "ques": "何かほかに買いたいものは、ありますか？",
-                    "start_nosound": 48,
-                    "end_nosound": 51,
+                    "start_nosound": 50,
+                    "end_nosound": 52,
                     "ans_len": 4,
                     "ans": [
                         "果物を買いたいです",
