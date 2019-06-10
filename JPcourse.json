@@ -149,7 +149,7 @@
 	                    ]
 	                },
 	                {
-	                    "time": 12,
+	                    "time": 15,
 	                    "ques": "Bさんは、どんな味が好きですか",
 	                    "start_nosound": 15,
 	                    "end_nosound": 19,
@@ -160,9 +160,9 @@
                 ]
                 },
 　　　　　　　　{
-　　　　　　　　　　"time":　41,
+　　　　　　　　　　"time":　47,
                     "ques":　"Ｂさん、何かほかに買いたいものは、ありますか？",
-　　　　　　　　　　"start_nosound": 46,
+　　　　　　　　　　"start_nosound": 47,
                     "end_nosound": 50,
                     "ans_len": 2,
                     "ans": [
