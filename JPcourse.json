@@ -227,52 +227,102 @@
                 },
 
 {
-	            "name": "(B班) 売り場＿group2",
-	            "youtube_id": "3DfjkRrslH8",
-	            "clips_len": 3,
-	            "clips": [
-	                {
-	                    "time": 5,
-	                    "ques": "Bさん、なにを買いますか",
-	                    "start_nosound": 5,
-	                    "end_nosound": 11,
-	                    "ans_len": 2,
-	                    "ans": [
-	                        "インスタントラーメンを買いたいです。",
-	                        "インスタントラーメンです。"
-	                    ]
-	                },
-	                {
-	                    "time": 23,
-	                    "ques": "Bさんは、どんな味が好きですが？",
-	                    "start_nosound": 23,
-	                    "end_nosound": 26,
-	                    "ans_len": 2,
-	                    "ans": [
-	                        "辛い味がすきです",
-	                        "辛い味です"
-	                    ]
-                }
-            ]
-        },
-	
+            "name": "(B班)売り場＿group1",
+            "youtube_id": "YtqiXbc81QQ",
+            "clips_len": 3,
+            "clips": [
                 {
-                    "time": 41,
-　　　　　　　　　"ques": "Bさん、何かほかに買いたいものは、ありますか？",
-                    "start_nosound": 41,
-                    "end_nosound": 45,
-                    "ans_len": 2,
+                    "time": 2,
+                    "ques": "Ｂさん、なにを 買いますか？",
+                    "start_nosound": 2,
+                    "end_nosound": 4,
+                    "ans_len": 3,
                     "ans": [
-                       "果物を買いたいです",
-                        "果物です。"
+                        "インスタントラーメンを買いたいです",
+                        "インスタントラーメンを買います",
+                        "インスタントラーメン"
                     ]
-                }
-            ]
-        },
+                },
+                {
+                    "time": 16,
+                    "ques": "どんな味が好きですか？",
+                    "start_nosound": 16,
+                    "end_nosound": 19,
+                    "ans_len": 4,
+                    "ans": [
+                        "辛い味のが好きです",
+                        "辛いのが好きです",
+                        "辛い味が好きです",
+                        "辛いです"
+                    ]
+                },
+                {
+                    "time": ,
+                    "ques": "何かほかに買いたいものは、ありますか？",
+                    "start_nosound": 52,
+                    "end_nosound": 55,
+                    "ans_len": 4,
+                    "ans": [
+                        "果物を買いたいです",
+                        "果物を買いたい",
+                        "果物",
+                        "果物です"
+                         ]
+                       }
+                    ]
+                },
 
 {
-	            "name": "(B班) 売り場＿group3",
-	            "youtube_id": "3DfjkRrslH8",
+            "name": "(B班)売り場＿group2",
+            "youtube_id": "3DfjkRrslH8",
+            "clips_len": 3,
+            "clips": [
+                {
+                    "time":5,
+                    "ques": "Ｂさん、なにを 買いますか？",
+                    "start_nosound": 5,
+                    "end_nosound": 11,
+                    "ans_len": 3,
+                    "ans": [
+                        "インスタントラーメンを買いたいです",
+                        "インスタントラーメンを買います",
+                        "インスタントラーメン"
+                    ]
+                },
+                {
+                    "time": 23,
+                    "ques": "Bさんは、どんな味が好きですか？",
+                    "start_nosound": 23,
+                    "end_nosound": 26,
+                    "ans_len": 4,
+                    "ans": [
+                        "辛い味のが好きです",
+                        "辛いのが好きです",
+                        "辛い味が好きです",
+                        "辛いです"
+                    ]
+                },
+                {
+                    "time": 41,
+                    "ques": " Bさん、何かほかに買いたいものは、ありますか？",
+                    "start_nosound": 41,
+                    "end_nosound": 45,
+                    "ans_len": 4,
+                    "ans": [
+                        "果物を買いたいです",
+                        "果物を買いたい",
+                        "果物",
+                        "果物です"
+                         ]
+                       }
+                    ]
+                },
+
+
+
+{
+	            "name": "(B班)売り場＿group3",
+	            "youtube_id": "3JYIsG5ALoA",
 	            "clips_len": 3,
 	            "clips": [
 	                {
@@ -280,106 +330,92 @@
 	                    "ques": "Bさん、何を買いますか？",
 	                    "start_nosound": 5,
 	                    "end_nosound": 10,
-	                    "ans_len": 1,
+	                    "ans_len":3,
 	                    "ans": [
-	                        "インスタントラメーンを買いたいです"
-	                       
+	                        "インスタントラメーンを買いたいです",
+                        "インスタントラーメンを買います",
+                        "インスタントラーメン"
+	
 	                    ]
 	                },
 	                {
 	                    "time": 18,
-	                    "ques": "いろいろな種類がありますね、Ｂさんは、どんな味が好きですか？",
+	                    "ques": "どんな味が好きですか？",
 	                    "start_nosound": 18,
 	                    "end_nosound": 22,
-	                    "ans_len": 1,
+	                    "ans_len": 4,
 	                    "ans": [
-	                        "辛い味のが好きです"
-	                        
+	                        "辛い味のが好きです",
+                        "辛いのが好きです",
+                        "辛い味が好きです",
+                        "辛いです"
+	
 	                    ]
                 },
                 {
                     "time": 50,
-                    "ques": "Bさん、何かほかに買いたいものは、ありますか？",
+                    "ques": "何かほかに買いたいものは、ありますか？",
                     "start_nosound": 50,
                     "end_nosound": 55,
-                    "ans_len": 1,
+                    "ans_len": 4,
                     "ans": [
-                        "果物を買いたいです"
-                       
+                        "果物を買いたいです",
+                        "果物を買いたい",
+                        "果物",
+                        "果物です"
+
                     ]
                 }
+               ]
+             },
 
+            
+   {
+            "name": "(B班)売り場＿group5",
+            "youtube_id": "YtqiXbc81QQ",
+            "clips_len": 3,
+            "clips": [
+                {
+                    "time": 5,
+                    "ques": "Ｂさん、なにを 買いますか？",
+                    "start_nosound": 5,
+                    "end_nosound": 8,
+                    "ans_len": 3,
+                    "ans": [
+                        "インスタントラーメンを買いたいです",
+                        "インスタントラーメンを買います",
+                        "インスタントラーメン"
+                    ]
+                },
+                {
+                    "time": 17,
+                    "ques": "どんな味が好きですか？",
+                    "start_nosound": 17,
+                    "end_nosound": 21,
+                    "ans_len": 4,
+                    "ans": [
+                        "辛い味のが好きです",
+                        "辛いのが好きです",
+                        "辛い味が好きです",
+                        "辛いです"
+                    ]
+                },
+                {
+                    "time": 52,
+                    "ques": "何かほかに買いたいものは、ありますか？",
+                    "start_nosound": 52,
+                    "end_nosound": 56,
+                    "ans_len": 4,
+                    "ans": [
+                        "果物を買いたいです",
+                        "果物を買いたい",
+                        "果物",
+                        "果物です"
+                         ]
+                       }
+                    ]
+                },
 
-{
-	            "name": "(B班) 売り場＿group5",
-	            "youtube_id": "3DfjkRrslH8",
-	            "clips_len": 2,
-	            "clips": [
-	                {
-	                    "time": 5,
-	                    "ques": "Bさん、何を買いますか？",
-	                    "start_nosound": 5,
-	                    "end_nosound": 8,
-	                    "ans_len": 2,
-	                    "ans": [
-	                        "インスタントラーメンを買いたいです。",
-	                        "インスタントラーメンです。"
-	                    ]
-	                },
-	                {
-	                    "time": 17,
-	                    "ques": "Bさんは、どんな味が好きですか？",
-	                    "start_nosound": 17,
-	                    "end_nosound": 21,
-	                    "ans_len": 1,
-	                    "ans": [
-	                        "辛い味のが好きです"
+     
 	
-	                    ]
-                }
 
-            ]
-        },
-
-{
-	            "name": "(B班) 売り場＿group6",
-	            "youtube_id": "",
-	            "clips_len": 3,
-	            "clips": [
-	                {
-	                    "time": 3,
-	                    "ques": "何を　買いますか",
-	                    "start_nosound": 3,
-	                    "end_nosound": 10,
-	                    "ans_len": 2,
-	                    "ans": [
-	                        "インスタントラーメンを買いたいです",
-	                        "インスタントラーメン"
-	                    ]
-	                },
-	                {
-	                    "time": 22,
-	                    "ques": "どんな味が好きですか？",
-	                    "start_nosound": 22,
-	                    "end_nosound": 28,
-	                    "ans_len": 2,
-	                    "ans": [
-	                        "辛い味のがすきです",
-	                        "辛い味"
-	                    ]
-	                },
-	                {
-	                    "time": 59,
-	                    "ques": "何かほかに買いたいものは、ありますか？",
-	                    "start_nosound": 59,
-	                    "end_nosound": 63,
-	                    "ans_len": 2,
-	                    "ans": [
-	                        "果物を買いたいです",
-	                        "果物"
-	                    ]
-                }
-            ]
-        }       
-    ]
-}
