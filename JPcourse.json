@@ -8,7 +8,7 @@
 	            "clips_len": 3,
 	            "clips": [
 	                {
-	                    "time": 5,
+	                    "time": 1,
 	                    "ques": " Bさん、何を買いますか？",
 	                    "start_nosound": 1,
 	                    "end_nosound": 3,
@@ -19,7 +19,7 @@
 	                    ]
 	                },
 	                {
-	                    "time": 16,
+	                    "time": 10,
 	                    "ques": "色々な種類がありますね。Bさんは、どんな味が好きですか？",
 	                    "start_nosound": 10,
 	                    "end_nosound": 15,
@@ -31,7 +31,7 @@
                     },
 	
                   {
-                    "time": 50,
+                    "time": 42,
                     "ques": "B さん、何か他に買いたいものは、ありますか？",
                     "start_nosound": 42,
                     "end_nosound": 47,
