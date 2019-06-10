@@ -28,25 +28,24 @@
 	                        "辛い味のか好きです",
 	                        "辛い味です"
 	                    ]
-},
+                    },
 	
-                {
+                  {
                     "time": 50,
                     "ques": "B さん、何か他に買いたいものは、ありますか？",
                     "start_nosound": 42,
                     "end_nosound": 47,
                     "ans_len": 3,
                     "ans": [
-                        "果物を買いたいで",
+                        "果物を買いたいです",
                         "果物です",
-"果物"
+                        "果物"
                     ]
                 }
             ]
-        }
+        },
 
-
-               {
+              {
             "name": "(A班)売り場＿group2",
             "youtube_id": "Gcm2tsRMyUM",
             "clips_len": 3,
@@ -91,9 +90,7 @@
                        }
                     ]
                 },
-
-
-	                   {
+                {
 	            "name": "(A班)売り場＿group3",
 	            "youtube_id": " gkNY2Wr2T0",
 	            "clips_len": 3,
@@ -118,8 +115,7 @@
 	                    "ans": [
 	                        "辛いです",
 	                        "辛い味のが好きです"
-	                    ]
-                }
+	
             ]
         },
 	
@@ -134,11 +130,11 @@
                         "果物です"
                     ]
                 }
-
-
-	            {
+             ] 
+          },  
+	     {
 	            "name": "(A班)売り場＿group4",
-	            "youtube_id": "",
+	            "youtube_id": "請加上自己組的影片ID",
 	            "clips_len": 3,
 	            "clips": [
 	                {
@@ -154,35 +150,32 @@
 	                },
 	                {
 	                    "time": 12,
-	                    "ques": "Bさんは、どんな味が好きでか",
+	                    "ques": "Bさんは、どんな味が好きですか",
 	                    "start_nosound": 15,
 	                    "end_nosound": 19,
 	                    "ans_len": 2,
 	                    "ans": [
-	                        "辛い味の好きです",
+	                        "辛い味のが好きです",
 	                        "辛い味です"
-	                    ]
-                },
-　　　　　　　　{
-　　　　　　　　　　"time":　41,
-                    "ques":　"Ｂさん、何かほかに買いたいものは、ありますか？",
-　　　　　　　　　　"start_nosound": 46,
-                    "end_nosound": 50,
-                    "ans_len": 2,
-                    "ans": [
-                        "果物を買いたいです",
-                        "果物です"
+			    ]
+               　　　　　 },
+　　　　　　　　　　　　　　{
+　　　　　　　　　　　　　　"time":　41,
+                　　　    "ques":　"Ｂさん、何かほかに買いたいものは、ありますか？",
+　　　　　　　　　　　　　　"start_nosound": 46,
+                   　　　 "end_nosound": 50,
+                   　　　 "ans_len": 2,
+                   　　　 "ans": [
+                      　　  "果物を買いたいです",
+                       　　 "果物です"
            ]
         }
       ]
    },
         
-	
-
-
-{
+    {
             "name": "(A班)売り場＿group5",
-            "youtube_id": "YtqiXbc81QQ",
+            "youtube_id": "請加上自己組的影片ID",
             "clips_len": 3,
             "clips": [
                 {
@@ -190,7 +183,7 @@
                     "ques": "Ｂさん、なにを 買いますか？",
                     "start_nosound": 4,
                     "end_nosound": 6,
-                    "ans_len": 2,
+                    "ans_len": 3, 
                     "ans": [
                         "インスタントラーメンを買いたいです",
                         "インスタントラーメンを買います",
@@ -202,7 +195,8 @@
                     "ques": "どんな味が好きですか？",
                     "start_nosound": 17,
                     "end_nosound": 18,
-                    "ans_len": 1,
+                    "ans_len": 4,
+
                     "ans": [
                         "辛い味のが好きです",
                         "辛いのが好きです",
@@ -215,7 +209,7 @@
                     "ques": "何かほかに買いたいものは、ありますか？",
                     "start_nosound": 47,
                     "end_nosound": 48,
-                    "ans_len": 1,
+                    "ans_len": 4,
                     "ans": [
                         "果物を買いたいです",
                         "果物を買いたい",
@@ -225,10 +219,10 @@
                        }
                     ]
                 },
-
-{
+	    
+　　　　　　{
             "name": "(B班)売り場＿group1",
-            "youtube_id": "YtqiXbc81QQ",
+            "youtube_id": "請加上自己組的影片ID",
             "clips_len": 3,
             "clips": [
                 {
@@ -257,7 +251,7 @@
                     ]
                 },
                 {
-                    "time": ,
+                    "time": 52,
                     "ques": "何かほかに買いたいものは、ありますか？",
                     "start_nosound": 52,
                     "end_nosound": 55,
@@ -271,10 +265,9 @@
                        }
                     ]
                 },
-
-{
+　　　　　{
             "name": "(B班)売り場＿group2",
-            "youtube_id": "3DfjkRrslH8",
+            "youtube_id": "請加上自己組的影片ID ",
             "clips_len": 3,
             "clips": [
                 {
@@ -318,9 +311,7 @@
                     ]
                 },
 
-
-
-{
+　　　　　　　　　{
 	            "name": "(B班)売り場＿group3",
 	            "youtube_id": "3JYIsG5ALoA",
 	            "clips_len": 3,
@@ -364,15 +355,14 @@
                         "果物",
                         "果物です"
 
-                    ]
+                  ]
                 }
                ]
              },
-
-            
-   {
+	    
+            {
             "name": "(B班)売り場＿group5",
-            "youtube_id": "YtqiXbc81QQ",
+            "youtube_id": "請加上自己組的影片ID ",
             "clips_len": 3,
             "clips": [
                 {
@@ -411,11 +401,15 @@
                         "果物を買いたい",
                         "果物",
                         "果物です"
-                         ]
-                       }
                     ]
-                },
+                }
+            ]
+        }
+    ]
+}
 
+    
+   
      
 	
 
