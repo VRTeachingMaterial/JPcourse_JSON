@@ -271,10 +271,10 @@
             "clips_len": 3,
             "clips": [
                 {
-                    "time":5,
+                    "time":3,
                     "ques": "Ｂさん、なにを 買いますか？",
-                    "start_nosound": 5,
-                    "end_nosound": 11,
+                    "start_nosound": 3,
+                    "end_nosound": 5,
                     "ans_len": 3,
                     "ans": [
                         "インスタントラーメンを買いたいです",
@@ -283,10 +283,10 @@
                     ]
                 },
                 {
-                    "time": 23,
+                    "time": 14,
                     "ques": "Bさんは、どんな味が好きですか？",
-                    "start_nosound": 23,
-                    "end_nosound": 26,
+                    "start_nosound": 14,
+                    "end_nosound": 16,
                     "ans_len": 4,
                     "ans": [
                         "辛い味のが好きです",
@@ -296,10 +296,10 @@
                     ]
                 },
                 {
-                    "time": 41,
+                    "time": 38,
                     "ques": " Bさん、何かほかに買いたいものは、ありますか？",
-                    "start_nosound": 41,
-                    "end_nosound": 45,
+                    "start_nosound": 38,
+                    "end_nosound": 40,
                     "ans_len": 4,
                     "ans": [
                         "果物を買いたいです",
