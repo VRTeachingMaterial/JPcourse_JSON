@@ -316,9 +316,9 @@
 	            "clips_len": 3,
 	            "clips": [
 	                {
-	                    "time": 5,
+	                    "time": 6,
 	                    "ques": "Bさん、何を買いますか？",
-	                    "start_nosound": 5,
+	                    "start_nosound": 6,
 	                    "end_nosound": 10,
 	                    "ans_len":3,
 	                    "ans": [
@@ -343,9 +343,9 @@
 	                    ]
                 },
                 {
-                    "time": 50,
+                    "time": 51,
                     "ques": "何かほかに買いたいものは、ありますか？",
-                    "start_nosound": 50,
+                    "start_nosound": 51,
                     "end_nosound": 55,
                     "ans_len": 4,
                     "ans": [
