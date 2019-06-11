@@ -1,5 +1,5 @@
 {
-    "course_length": ,
+    "course_length": 11,
     "courses": [
 
 {
@@ -210,6 +210,51 @@
                     "ques": "何かほかに買いたいものは、ありますか？",
                     "start_nosound": 47,
                     "end_nosound": 48,
+                    "ans_len": 4,
+                    "ans": [
+                        "果物を買いたいです",
+                        "果物を買いたい",
+                        "果物",
+                        "果物です"
+                         ]
+                       }
+                    ]
+                },
+         {
+            "name": "(A班)売り場＿group7",
+            "youtube_id": "UC6ygin5gtda2FbO5xvCuVfA",
+            "clips_len": 3,
+            "clips": [
+                {
+                    "time": 19,
+                    "ques": "Ｂさん、なにを 買いますか？",
+                    "start_nosound": 19,
+                    "end_nosound": 23,
+                    "ans_len": 3,
+                    "ans": [
+                        "インスタントラーメンを買いたいです",
+                        "インスタントラーメンを買います",
+                        "インスタントラーメン"
+                    ]
+                },
+                {
+                    "time": 32,
+                    "ques": "どんな味が好きですか？",
+                    "start_nosound": 32,
+                    "end_nosound": 36,
+                    "ans_len": 4,
+                    "ans": [
+                        "辛い味のが好きです",
+                        "辛いのが好きです",
+                        "辛い味が好きです",
+                        "辛いです"
+                    ]
+                },
+                {
+                    "time": 65,
+                    "ques": "何かほかに買いたいものは、ありますか？",
+                    "start_nosound": 65,
+                    "end_nosound": 67,
                     "ans_len": 4,
                     "ans": [
                         "果物を買いたいです",
