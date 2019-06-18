@@ -1,5 +1,5 @@
 {
-    "course_length": 17,
+    "course_length": 15,
     "courses": [
 
 {
@@ -701,93 +701,6 @@
                     "ans": [
                         "五百円です",
                         "五百円"
-                         ]
-                       }
-                    ]
-                },
-	    {
-            "name": "大学の喫茶店G5",
-            "youtube_id": " LFJ5rKrKTHc ",
-            "clips_len": 3,
-            "clips": [
-                {
-                    "time": 2,
-                    "ques": "ここはどこですか？",
-                    "start_nosound": 2,
-                    "end_nosound": 10,
-                    "ans_len": 2,
-                    "ans": [
-                        "学校の本屋です",
-                        "本屋です
-                    ]
-                },
-                {
-                    "time": 40,
-                    "ques": "おすすめの本はありますが？",
-                    "start_nosound": 40,
-                    "end_nosound": 50,
-                    "ans_len": 2,
-                    "ans": [
-                        "日本語と英語の本がおすすめです",
-                        "日本語と英語の本が多いです"                        
-                    ]
-                },
-                {
-                    "time": 74,
-                    "ques": "学生はここでなにをしますか",
-                    "start_nosound": 74,
-                    "end_nosound": 83,
-                    "ans_len": 2,
-                    "ans": [
-                        "学生はここでコーヒーを飲んだり勉強したりすることできます",
-                        "コーヒーを飲む場所です"                       
-                         ]
-                       }
-                    ]
-                },
-
-            "name": "五号館の案内G7",
-            "youtube_id": "j3t0WkcidJY&t=4s ",
-            "clips_len": 4,
-            "clips": [
-                {
-                    "time": 10,
-                    "ques": "ここはどこですか？",
-                    "start_nosound": 10,
-                    "end_nosound": 12,
-                    "ans_len": 2,
-                    "ans": [
-                        "ここは図書館です。",
-                        "図書館です。"
-                    ]
-                },
-                {
-                    "time": 22,
-                    "ques": "図書館のほか５号館の一階に 何がありますか？",
-                    "start_nosound": 22,
-                    "end_nosound": 23,
-                    "ans_len": 1,
-                    "ans": [
-                        "コンビニもありますよ。"
-                    ]
-                },
-                {
-                    "time": 53,
-                    "ques": "あなた達はどの教室で 日本語の 授業を受けますか？",
-                    "start_nosound": 53,
-                    "end_nosound": 55,
-                    "ans_len": 1,
-                    "ans": [
-                        "このコンピューター教室です。"
-                         ]
-                       },
-                      { "time": 85,
-                    "ques": "ここはどこですか。？",
-                    "start_nosound": 85,
-                    "end_nosound": 87,
-                    "ans_len": 1,
-                    "ans": [
-                        "ここは図書室です。"
                      ]
                 }
             ]
