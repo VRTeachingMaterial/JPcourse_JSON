@@ -692,8 +692,8 @@
                         "右"
                     ]
                 },
-　　　　　　　　{
-                    "time":　86,
+		    {
+                    "time":86,
                     "ques": "全部はいくらですか？",
                     "start_nosound": 86,
                     "end_nosound": 90,
