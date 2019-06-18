@@ -707,15 +707,15 @@
                 },
 	    {
             "name": "大学の喫茶店G5",
-            "youtube_id": " LFJ5rKrKTHc",
+            "youtube_id": " LFJ5rKrKTHc ",
             "clips_len": 3,
             "clips": [
                 {
-                    "time": 2
-                    "ques":"ここはどこですか？",
-                    "start_nosound": 2
+                    "time": 2,
+                    "ques": "ここはどこですか？",
+                    "start_nosound": 2,
                     "end_nosound": 10,
-                    "ans_len": 2
+                    "ans_len": 2,
                     "ans": [
                         "学校の本屋です",
                         "本屋です
@@ -725,22 +725,22 @@
                     "time": 40,
                     "ques": "おすすめの本はありますが？",
                     "start_nosound": 40,
-                    "end_nosound": 50
-                    "ans_len": 2
+                    "end_nosound": 50,
+                    "ans_len": 2,
                     "ans": [
                         "日本語と英語の本がおすすめです",
-                        "日本語と英語の本が多いです"
+                        "日本語と英語の本が多いです"                        
                     ]
                 },
                 {
-                    "time": 74
+                    "time": 74,
                     "ques": "学生はここでなにをしますか",
-                    "start_nosound": 74
-                    "end_nosound": 83
-                    "ans_len": 2
+                    "start_nosound": 74,
+                    "end_nosound": 83,
+                    "ans_len": 2,
                     "ans": [
                         "学生はここでコーヒーを飲んだり勉強したりすることできます",
-                        "コーヒーを飲む場所です"
+                        "コーヒーを飲む場所です"                       
                          ]
                        }
                     ]
