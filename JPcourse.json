@@ -712,7 +712,7 @@
             "clips": [
                 {
                     "time": 2
-                    "ques": "ここはどこですか？",
+                    "ques":"ここはどこですか？",
                     "start_nosound": 2
                     "end_nosound": 10,
                     "ans_len": 2
