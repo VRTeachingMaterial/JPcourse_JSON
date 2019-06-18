@@ -1,5 +1,5 @@
 {
-    "course_length": 11,
+    "course_length": 17,
     "courses": [
 
 {
@@ -485,13 +485,324 @@
 	                    "ans": [
 	                        "果物を買いたいです",
 	                        "果物"
-	            	    
+		          ]
+                       }
                     ]
+                },
+	    {
+            "name": "五号館G1",
+            "youtube_id": "Ix4RUonAlv8",
+            "clips_len": 3,
+            "clips": [
+                {
+                    "time": 11,
+                    "ques": "ここはどこですか？",
+                    "start_nosound": 11,
+                    "end_nosound": 13,
+                    "ans_len": 3,
+                    "ans": [
+                        "ここは五号館です。",
+                        "五号館です。",
+                        "五号館。"
+                    ]
+                },
+                {
+                    "time": 32,
+                    "ques": "あそこはなんですか。",
+                    "start_nosound": 32,
+                    "end_nosound": 34,
+                    "ans_len": 3,
+                    "ans": [
+                        "あそこは図書館です。",
+                        "図書館です",
+                        "図書館"
+                        
+                    ]
+                },
+                {
+                    "time": 70,
+                    "ques": "あそこの青い看板のは何ですか",
+                    "start_nosound": 70,
+                    "end_nosound": 71,
+                    "ans_len": 3,
+                    "ans": [
+                        "あそこはコンビニです",
+                        "コンビニです",
+"コンビニ"
+                       
+                         ]
+                       }
+                    ]
+                },
+	    {
+            "name": "カルフールG2",
+            "youtube_id": "7PuE3eC2p-w",
+            "clips_len": 3,
+            "clips": [
+                {
+                    "time": 12,
+                    "ques": "どうやって行きますか？",
+                    "start_nosound": 12,
+                    "end_nosound": 20,
+                    "ans_len": 3,
+                    "ans": [
+                        "バスで行きます",
+                        "バスで",
+                        "バス"
+                    ]
+                },
+                {
+                    "time": 30,
+                    "ques": "何を食べたいですか？",
+                    "start_nosound": 30,
+                    "end_nosound": 34,
+                    "ans_len": 3,
+                    "ans": [
+                        "マクドナルドのハンバーガーを食べたいです",
+                        "マクドナルドのハンバーガー",
+                        "マクドナルドのハンバーガーです"
+                    ]
+                },
+                {
+                    "time": 54,
+                    "ques": "あのカフェは何と言いますか？",
+                    "start_nosound": 54,
+                    "end_nosound": 58,
+                    "ans_len": 3,
+                    "ans": [
+                        "スターバックスと言うカフェです",
+                        "スターバックスです",
+                        "スターバックス"
+                         ]
+                       }
+                    ]
+                },
+
+{
+            "name": "寮G3",
+            "youtube_id": "xOCMrssGcP0",
+            "clips_len": 4,
+            "clips": [
+                {
+                    "time": 5,
+                    "ques": "ここはどこですか？",
+                    "start_nosound": 5,
+                    "end_nosound": 11,
+                    "ans_len": 3,
+                    "ans": [
+                        "ここは寮です。",
+                        "寮です。",
+                        "男子寮です。"
+                    ]
+                },
+                {
+                    "time": 26,
+                    "ques": "りょうの近くには何がありますか。",
+                    "start_nosound": 26,
+                    "end_nosound": 33,
+                    "ans_len": 1,
+                    "ans": [
+                        "レストランがあいります。"
+                    ]
+                },
+{
+                    "time": 39,
+                    "ques": "レストランのたべものはどうですか。",
+                    "start_nosound": 39,
+                    "end_nosound": 46,
+                    "ans_len": 3,
+                    "ans": [
+                        "おいしいです。",
+"安いです。",
+"高いです。"
+ 
+
+                    ]
+                },
+
+                {
+                    "time": 50,
+                    "ques": "そさん　あなたのおすすめはなんですか",
+                    "start_nosound": 50,
+                    "end_nosound": 58,
+                    "ans_len": 1,
+                    "ans": [
+                        "ドリンクがおすすめです"
+                         ]
+                       }
+                    ]
+                },
+	    
+	    {
+            "name": "G4",
+            "youtube_id": "DNG329L7ejE",
+            "clips_len": 5,
+            "clips": [
+                {
+                    "time": 14,
+                    "ques": "なにか",
+                    "start_nosound": 14,
+                    "end_nosound": 20,
+                    "ans_len": 3,
+                    "ans": [
+                        "飲みたいですね",
+                        "飲みたいです",
+                        "飲みたい"
+                    ]
+                },
+                {
+                    "time": 30,
+                    "ques": "これはちゅっと…",
+                    "start_nosound": 30,
+                    "end_nosound": 39,
+                    "ans_len": 4,
+                    "ans": [
+                        "甘いものはあまり好きじゃありません",
+                        "甘いものはすきじゃありません",
+                        "甘いものは嫌いです",
+                        "甘いものは嫌い"
+                    ]
+                },
+                {
+                    "time": 60,
+                    "ques": "暑いですから、",
+                    "start_nosound": 60,
+                    "end_nosound": 65,
+                    "ans_len": 4,
+                    "ans": [
+                        "アイスクリームが食べたいです",
+                        "アイスクリームが食べたい",
+                        "アイスクリームを食べたい",
+"アイスクリーム"
+                    ]
+                },
+{
+                    "time": 68,
+                    "ques": "どっちにしますか？",
+                    "start_nosound": 68,
+                    "end_nosound": 75,
+                    "ans_len": 7,
+                    "ans": [
+                        "右の方にします",
+                        "右の方が食べたいです",
+"右の方に食べたいです",
+"右の方が食べたい",
+"右の方に食べたいです",
+                        "右のです",
+                        "右"
+                    ]
+                },
+　　　　　　　　{
+                    "time":　86,
+                    "ques": "全部はいくらですか？",
+                    "start_nosound": 86,
+                    "end_nosound": 90,
+                    "ans_len": 2,
+                    "ans": [
+                        "五百円です",
+                        "五百円"
+                         ]
+                       }
+                    ]
+                },
+
+	    {
+            "name": "大学の喫茶店G5",
+            "youtube_id": " LFJ5rKrKTHc",
+            "clips_len": 3,
+            "clips": [
+                {
+                    "time": 2
+                    "ques": "ここはどこですか？",
+                    "start_nosound": 2
+                    "end_nosound": 10,
+                    "ans_len": 2
+                    "ans": [
+                        "学校の本屋です",
+                        "本屋です
+                    ]
+                },
+                {
+                    "time": 40,
+                    "ques": "おすすめの本はありますが？",
+                    "start_nosound": 40,
+                    "end_nosound": 50
+                    "ans_len": 2
+                    "ans": [
+                        "日本語と英語の本がおすすめです",
+                        "日本語と英語の本が多いです"
+                    ]
+                },
+                {
+                    "time": 74
+                    "ques": "学生はここでなにをしますか",
+                    "start_nosound": 74
+                    "end_nosound": 83
+                    "ans_len": 2
+                    "ans": [
+                        "学生はここでコーヒーを飲んだり勉強したりすることできます",
+                        "コーヒーを飲む場所です"
+                         ]
+                       }
+                    ]
+                },
+	    {
+            "name": "五号館の案内G7",
+            "youtube_id": "j3t0WkcidJY&t=4s ",
+            "clips_len": 4,
+            "clips": [
+                {
+                    "time": 10,
+                    "ques": "ここはどこですか？",
+                    "start_nosound": 10,
+                    "end_nosound": 12,
+                    "ans_len": 2,
+                    "ans": [
+                        "ここは図書館です。",
+                        "図書館です。"
+                    ]
+                },
+                {
+                    "time": 22,
+                    "ques": "図書館のほか５号館の一階に 何がありますか？",
+                    "start_nosound": 22,
+                    "end_nosound": 23,
+                    "ans_len": 1,
+                    "ans": [
+                        "コンビニもありますよ。"
+                    ]
+                },
+                {
+                    "time": 53,
+                    "ques": "あなた達はどの教室で 日本語の 授業を受けますか？",
+                    "start_nosound": 53,
+                    "end_nosound": 55,
+                    "ans_len": 1,
+                    "ans": [
+                        "このコンピューター教室です。"
+                         ]
+                       },
+                      { "time": 85,
+                    "ques": "ここはどこですか。？",
+                    "start_nosound": 85,
+                    "end_nosound": 87,
+                    "ans_len": 1,
+                    "ans": [
+                        "ここは図書室です。"
+                     ]
                 }
             ]
         }
     ]
 }
+
+
+	    
+
+
+	            
+	    
+                   
 
     
    
