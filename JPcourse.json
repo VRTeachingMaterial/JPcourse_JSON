@@ -721,7 +721,7 @@
                     ]
                 },
                 {
-			"time": 38,
+		    "time": 38,
                     "ques": "おすすめの本はありますか？",
                     "start_nosound": 38,
                     "end_nosound": 46,
