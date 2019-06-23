@@ -486,7 +486,7 @@
                     "time": 11,
                     "ques": "ここはどこですか？",
                     "start_nosound": 11,
-                    "end_nosound": 13,
+                    "end_nosound": 12,
                     "ans_len": 3,
                     "ans": [
                         "ここは五号館です。",
@@ -507,9 +507,9 @@
                     ]
                 },
                 {
-                    "time": 70,
+                    "time": 66,
                     "ques": "あそこの青い看板のは何ですか",
-                    "start_nosound": 70,
+                    "start_nosound": 66,
                     "end_nosound": 71,
                     "ans_len": 3,
                     "ans": [
