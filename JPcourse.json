@@ -526,10 +526,10 @@
             "clips_len": 3,
             "clips": [
                 {
-                    "time": 12,
+                    "time": 13,
                     "ques": "どうやって行きますか？",
-                    "start_nosound": 12,
-                    "end_nosound": 17,
+                    "start_nosound": 13,
+                    "end_nosound": 18,
                     "ans_len": 3,
                     "ans": [
                         "バスで行きます",
