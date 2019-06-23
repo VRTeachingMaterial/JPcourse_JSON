@@ -3,7 +3,7 @@
     "courses": [
 
 {
-	            "name": "(A班)売り場＿group1",
+	            "name": "(練習版A班)G1",
 	            "youtube_id": "J_fbupR8bMc",
 	            "clips_len": 3,
 	            "clips": [
@@ -46,7 +46,7 @@
         },
 
               {
-            "name": "(A班)売り場＿group2",
+            "name": "(練習版A班)G2",
             "youtube_id": "Gcm2tsRMyUM",
             "clips_len": 3,
             "clips": [
@@ -91,7 +91,7 @@
                     ]
                 },
                 {
-	            "name": "(A班)売り場＿group3",
+	            "name": "(練習版A班)G3",
 	            "youtube_id": " gkNY2Wr2T0",
 	            "clips_len": 3,
 	            "clips": [
@@ -133,7 +133,7 @@
              ] 
           },  
 	    {
-	            "name": "(A班)売り場＿group4",
+	            "name": "(練習版A班)G4",
 	            "youtube_id": "m-6q3TJL2vU",
 	            "clips_len": 3,
 	            "clips": [
@@ -175,7 +175,7 @@
 
         
     {
-            "name": "(A班)売り場＿group5",
+            "name": "(練習版A班)G5",
             "youtube_id": "請加上自己組的影片ID",
             "clips_len": 3,
             "clips": [
@@ -221,7 +221,7 @@
                     ]
                 },
          {
-            "name": "(A班)売り場＿group7",
+            "name": "(練習版A班)G7",
             "youtube_id": "UC6ygin5gtda2FbO5xvCuVfA",
             "clips_len": 3,
             "clips": [
@@ -266,7 +266,7 @@
                     ]
                 },
 	    {
-            "name": "(B班)売り場＿group1",
+            "name": "(練習版B班)G1",
             "youtube_id": "sYLh-zmbH08",
             "clips_len": 3,
             "clips": [
@@ -311,7 +311,7 @@
                     ]
                 },
 	    {
-            "name": "(B班)売り場＿group2",
+            "name": "(練習版B班)G2",
             "youtube_id": "7D1vXvVYoco",
             "clips_len": 3,
             "clips": [
@@ -356,7 +356,7 @@
                     ]
                 },
 	    {
-	            "name": "(B班)売り場＿group3",
+	            "name": "(練習版B班)G3",
 	            "youtube_id": "3JYIsG5ALoA",
 	            "clips_len": 3,
 	            "clips": [
@@ -405,7 +405,7 @@
              },
 	    
             {
-            "name": "(B班)売り場＿group5",
+            "name": "(練習版B班)G5",
             "youtube_id": "VUpKqgtFxq8",
             "clips_len": 3,
             "clips": [
@@ -450,7 +450,7 @@
             ]
         },
 	    {
-	            "name": "(B班)売り場＿group6",
+	            "name": "(練習版B班)G6",
 	            "youtube_id": "7ZONEnlfepQ",
 	            "clips_len": 3,
 	            "clips": [
@@ -490,7 +490,7 @@
                     ]
                 },
 	    {
-            "name": "五号館G1",
+            "name": "(A班)五号館G1",
             "youtube_id": "Ix4RUonAlv8",
             "clips_len": 3,
             "clips": [
@@ -534,16 +534,16 @@
                        }
                     ]
                 },
-	    {
-            "name": "カルフールG2",
-            "youtube_id": "7PuE3eC2p-w",
+{
+            "name": "(A班)カルフールG2",
+            "youtube_id": "hum-JNhwYX8",
             "clips_len": 3,
             "clips": [
                 {
                     "time": 12,
                     "ques": "どうやって行きますか？",
                     "start_nosound": 12,
-                    "end_nosound": 20,
+                    "end_nosound": 17,
                     "ans_len": 3,
                     "ans": [
                         "バスで行きます",
@@ -552,10 +552,10 @@
                     ]
                 },
                 {
-                    "time": 30,
+                    "time": 27,
                     "ques": "何を食べたいですか？",
-                    "start_nosound": 30,
-                    "end_nosound": 34,
+                    "start_nosound": 27,
+                    "end_nosound": 31,
                     "ans_len": 3,
                     "ans": [
                         "マクドナルドのハンバーガーを食べたいです",
@@ -564,10 +564,10 @@
                     ]
                 },
                 {
-                    "time": 54,
+                    "time": 47,
                     "ques": "あのカフェは何と言いますか？",
-                    "start_nosound": 54,
-                    "end_nosound": 58,
+                    "start_nosound": 47,
+                    "end_nosound": 52,
                     "ans_len": 3,
                     "ans": [
                         "スターバックスと言うカフェです",
@@ -577,17 +577,16 @@
                        }
                     ]
                 },
-
-{
-            "name": "寮G3",
-            "youtube_id": "xOCMrssGcP0",
+	    {
+            "name": "(A班)寮G3",
+            "youtube_id": "PatWidVMdzk",
             "clips_len": 4,
             "clips": [
                 {
-                    "time": 5,
+                    "time": 2,
                     "ques": "ここはどこですか？",
-                    "start_nosound": 5,
-                    "end_nosound": 11,
+                    "start_nosound": 2,
+                    "end_nosound": 8,
                     "ans_len": 3,
                     "ans": [
                         "ここは寮です。",
@@ -596,45 +595,45 @@
                     ]
                 },
                 {
-                    "time": 26,
-                    "ques": "りょうの近くには何がありますか。",
-                    "start_nosound": 26,
-                    "end_nosound": 33,
-                    "ans_len": 1,
+                    "time": 23,
+                    "ques": "りょうの近くには何がありますか?",
+                    "start_nosound": 23,
+                    "end_nosound": 30,
+                    "ans_len": 2,
                     "ans": [
-                        "レストランがあいります。"
+                        "レストランがあいります。", 
+                        "レストランです。"  
                     ]
                 },
 {
-                    "time": 39,
-                    "ques": "レストランのたべものはどうですか。",
-                    "start_nosound": 39,
-                    "end_nosound": 46,
+                    "time": 35,
+                    "ques": "レストランのたべものはどうですか?",
+                    "start_nosound": 35,
+                    "end_nosound": 42,
                     "ans_len": 3,
                     "ans": [
                         "おいしいです。",
 "安いです。",
 "高いです。"
- 
-
                     ]
                 },
 
                 {
-                    "time": 50,
+                    "time":47,
                     "ques": "そさん　あなたのおすすめはなんですか",
-                    "start_nosound": 50,
-                    "end_nosound": 58,
-                    "ans_len": 1,
+                    "start_nosound": 47,
+                    "end_nosound": 55,
+                    "ans_len": 3,
                     "ans": [
-                        "ドリンクがおすすめです"
+                        "ドリンクがおすすめです",
+                        "ラーメンがおすすめです",
+"ドリンクがおすすめですよ"
                          ]
                        }
                     ]
                 },
-	    
 	    {
-            "name": "G4",
+            "name": "(A班)売り場G4",
             "youtube_id": "DNG329L7ejE",
             "clips_len": 5,
             "clips": [
@@ -677,9 +676,9 @@
                     ]
                 },
 {
-                    "time": 68,
+                    "time": 71,
                     "ques": "どっちにしますか？",
-                    "start_nosound": 68,
+                    "start_nosound": 71,
                     "end_nosound": 75,
                     "ans_len": 7,
                     "ans": [
@@ -692,8 +691,8 @@
                         "右"
                     ]
                 },
-		    {
-                    "time":86,
+　　　　　　　　{
+                    "time":　86,
                     "ques": "全部はいくらですか？",
                     "start_nosound": 86,
                     "end_nosound": 90,
@@ -701,7 +700,457 @@
                     "ans": [
                         "五百円です",
                         "五百円"
+                         ]
+                       }
+                    ]
+                },
+	    {
+            "name": "(A班)大学の喫茶店G5",
+            "youtube_id": "9peCn45F1ZU",
+            "clips_len": 4,
+            "clips": [
+                {
+                    "time": 3,
+                    "ques": "ここはどこですか？",
+                    "start_nosound": 3,
+                    "end_nosound": 9,
+                    "ans_len": 2,
+                    "ans": [
+                        "学校の本屋です",
+                        "本屋です
+                    ]
+                },
+                {
+                    "time": 38,
+                    "ques": "おすすめの本はありますか？",
+                    "start_nosound": 38,
+                    "end_nosound": 46,
+                    "ans_len": 2,
+                    "ans": [
+                        "日本語と英語の本がおすすめです",
+                        "日本語と英語の本が多いです"
+                    ]
+                },
+                {
+                   "time": 53,
+                    "ques": "そのコーナーは何ですか？",
+                    "start_nosound": 53,
+                    "end_nosound": 62,
+                    "ans_len": 2,
+                    "ans": [
+                        "あそこはコーヒーは飲む所です",
+                        "コーヒーを飲む場所です"
+]
+},
+{
+
+                    "time": 69,
+                    "ques": "学生はここでなにをしますか?",
+                    "start_nosound": 69,
+                    "end_nosound": 80,
+                    "ans_len": 3,
+                    "ans": [
+                        "学生はここでコーヒーを飲んだり本を読んたりすることがてきます。",
+                        "コーヒーを飲む場所です",
+                        "本を読むことです"
+                         ]
+                       }
+                    ]
+                },
+	    {
+            "name": "(B班)宿舍生活G1",
+            "youtube_id": "fcE0j62C8C4",
+            "clips_len": 5,
+            "clips": [
+                {
+                    "time": 13,
+                    "ques": "ここは学生の寮ですか",
+                    "start_nosound":13,
+                    "end_nosound":18,
+                    "ans_len":1,
+                    "ans": [
+                        "学生の寮です。",
+                    ]
+                },
+                {
+                    "time": 70,
+                    "ques": "寮は全部で何階ありますか。",
+                    "start_nosound": 70,
+                    "end_nosound": 75,
+                    "ans_len": 1,
+                    "ans": [
+                        "九階あります。",
+                    ]
+                },
+                {
+                    "time": 81, 
+                    "ques": "何階に住んでいますか。",
+                    "start_nosound": 81,
+                    "end_nosound": 87,
+                    "ans_len": 1,
+                    "ans": [
+                        "四階です",
                      ]
+                },
+                {
+                    "time": 106,
+                    "ques": "部屋番号は何番ですか。",
+                    "start_nosound": 106,
+                    "end_nosound": 109,
+                    "ans_len": 1,
+                    "ans": [
+                        "2411です",
+                    ]
+                },
+                {
+                    "time": 156,
+                    "ques": "寮から教室まで何分かかりますか。",
+                    "start_nosound": 156,
+                    "end_nosound": 162,
+                    "ans_len": 1,
+                    "ans": [
+                        "十分くらいかかります",
+                        ]
+                       }
+                    ]
+                },
+	    {
+            "name": "(B班)学校の食堂G2",
+            "youtube_id": "HsPQwhYD0Sk",
+            "clips_len": 3,
+            "clips": [
+                {
+                    "time": 19,
+                    "ques": "張さん、なにを食べたいですか？",
+                    "start_nosound": 19,
+                    "end_nosound": 23,
+                    "ans_len": 3,
+                    "ans": [
+                        "カレーライスを食べたいです。",
+                        "カレーライスをたべます。",
+                        "カレーライス。"
+                    ]
+                },
+                {
+                    "time": 56,
+                    "ques": "これ、食べたいです。",
+                    "start_nosound": 56,
+                    "end_nosound": 60,
+                    "ans_len": 3,
+                    "ans": [
+                        "これは六十円です。",
+                        "このカレーライスは六十円です。",
+                        "六十円です。"
+                    ]
+                },
+                {
+                    "time":91,
+                    "ques": "私はアイスティーを飲みたいです。",
+                    "start_nosound": 91,
+                    "end_nosound":95,
+                    "ans_len": 3,
+                    "ans": [
+                        "私はジュースを飲みたいです。",
+                        "私はジュースが欲しいです。",
+                        "ジュース。"
+                         ]
+                       }
+                    ]
+                },
+	    {
+            "name": "(B班)学校の食べ物G3",
+            "youtube_id": "8AcJZMI-X-c",
+            "clips_len": 4,
+            "clips": [
+                {
+                    "time": 19,
+                    "ques": " Dさん何を食べたいですか。",
+                    "start_nosound": 19,
+                    "end_nosound": 24,
+                    "ans_len": 2,
+                    "ans": [
+"私はファストフードを食べたいです",
+"ハンバーガーをたべたいです"
+                    ]
+                },
+                {
+                    "time": 54,
+                    "ques": "何か食べたいですか。",
+                    "start_nosound": 54,
+                    "end_nosound": 58,
+                    "ans_len": 1,
+                    "ans": [
+                        "私はハンバーガー" 
+                    ]
+                },
+                {
+                    "time": 80,
+                    "ques": "紅茶と冬瓜茶とどちらが飲みたいですか",
+                    "start_nosound": 80,
+                    "end_nosound": 85,
+                    "ans_len": 1,
+                    "ans": [
+                        "紅茶をのみたいです"
+]
+},
+{
+                    "time": 92,
+                    "ques": "会計をお願いします。",
+                    "start_nosound": 92,
+                    "end_nosound": 98,
+                    "ans_len": 1,
+                    "ans": [
+                        "全部で280円です。"
+                         ]
+                       }
+                    ]
+                },
+	    {
+            "name": "(B班)寮の生活G4",
+            "youtube_id": "aR2QL3qwhRs",
+            "clips_len": 3,
+            "clips": [
+                {
+                    "time": 3,
+                    "ques": "ここはどこですか？",
+                    "start_nosound": 3,
+                    "end_nosound": 5,
+                    "ans_len":2,
+                    "ans": [
+                        "こちらは寮です",
+                        "寮です"
+		    ]
+		},
+                {
+                    "time": 22,
+                    "ques": "寮の近くに何がありますか？",
+                    "start_nosound": 22,
+                    "end_nosound":28,
+                    "ans_len":1,
+                    "ans": [
+                        "寮の近くに学生のレストランがあります" 
+                    ]
+                },
+                {
+                    "time":33,
+                    "ques": "レストランの食べ物はどうですか？",
+                    "start_nosound":33,
+                    "end_nosound":38,
+                    "ans_len":3,
+                    "ans": [
+                        "食べ物は美味しい",
+                        "食べ物は安いです",
+                        "食べ物は高いです"
+		    ]
+		}
+	    ]
+	    },
+	    {
+            "name": "(B班)寮の紹介G5",
+            "youtube_id": "N2U_6VWrs4Y",
+            "clips_len": 12,
+            "clips": [
+                {
+                    "time": 15,
+                    "ques": "あの店は何の店ですか？",
+                    "start_nosound": 15,
+                    "end_nosound": 22,
+                    "ans_len": 2,
+                    "ans": [
+                        "あれは朝ご飯の店です。",
+                        "朝ご飯の店です"
+                    ]
+                },
+                {
+                    "time": 30,
+                    "ques": "値段は高いですか。",
+                    "start_nosound": 30,
+                    "end_nosound": 36,
+                    "ans_len": 2,
+                    "ans": [
+                        "いいえ",
+                        "いいえ、安いですよ。"
+                    ]
+                },
+                {
+                    "time": 45,
+                    "ques": "あ、あの、この店は何の店ですか？",
+                    "start_nosound": 45,
+                    "end_nosound": 48,
+                    "ans_len": 1,
+                    "ans": [
+                        "雑貨店です。"
+                         ]
+                },
+{
+                    "time": 87,
+                    "ques": "あのう、これは何ですか。",
+                    "start_nosound": 87,
+                    "end_nosound": 91,
+                    "ans_len": 2,
+                    "ans": [
+                        "これは洗濯機です。",
+                        "洗濯機です。"
+                    ]
+                },
+{
+                    "time": 96,
+                    "ques": "お金がかかりますか。",
+                    "start_nosound": 96,
+                    "end_nosound": 101,
+                    "ans_len": 1,
+                    "ans": [
+                        "はい、一回十元です。"
+                    ]
+                },
+{
+                    "time": 111,
+                    "ques": "その隣の物は何ですか。",
+                    "start_nosound": 111,
+                    "end_nosound": 119,
+                    "ans_len": 1,
+                    "ans": [
+                        "あれですか。あれは乾燥機です。"
+                    ]
+                },
+{
+                    "time": 132,
+                    "ques": "あの炊飯器の下にはオーブンですか。",
+                    "start_nosound": 132,
+                    "end_nosound": 137,
+                    "ans_len": 1,
+                    "ans": [
+                        "あれは電子レンジです。"
+                    ]
+                },
+{
+                    "time": 153,
+                    "ques": "何人住んでいますか。",
+                    "start_nosound": 153,
+                    "end_nosound": 157,
+                    "ans_len": 1,
+                    "ans": [
+                        "四人です"
+                    ]
+                },
+{
+                    "time": 161,
+                    "ques": "ベッドはどこにありますか。",
+                    "start_nosound": 161,
+                    "end_nosound": 165,
+                    "ans_len": 1,
+                    "ans": [
+                        "ベッドは上にあります。"
+                    ]
+                },
+{
+                    "time": 178,
+                    "ques": "あ、トイレは？",
+                    "start_nosound": 178,
+                    "end_nosound": 183,
+                    "ans_len": 1,
+                    "ans": [
+                        "トイレは部屋の中にあります。"
+                    ]
+                },
+{
+                    "time": 194,
+                    "ques": "シャワー室もありますか。",
+                    "start_nosound": 194,
+                    "end_nosound": 198,
+                    "ans_len": 1,
+                    "ans": [
+                        "はい、あそこです。"
+                    ]
+                },
+{
+                    "time": 205,
+                    "ques": "シャワー室は何時から何時まですか。",
+                    "start_nosound": 205,
+                    "end_nosound": 212,
+                    "ans_len": 1,
+                    "ans": [
+                        "朝6時から深夜の2時まです。"
+		    ]
+}
+	    ]
+	    },
+	    {
+            "name": "(B班)元智大学の生活G6",
+            "youtube_id": "lX1kvcUThHY",
+            "clips_len": 6,
+            "clips": [
+                {
+                    "time": 6,
+                    "ques": "この建物はなんの建物ですか？",
+                    "start_nosound": 6,
+                    "end_nosound": 11,
+                    "ans_len": 3,
+                    "ans": [
+                        "この建物は図書館です",
+                        "これは図書館です",
+                        "図書館です"
+                    ]
+                },
+                {
+                    "time": 22,
+                    "ques": "Ｂさんはなんの本を借りたいてすか？",
+                    "start_nosound": 22,
+                    "end_nosound": 28,
+                    "ans_len": 3,
+                    "ans": [
+                        "日本語の小説借りたいです",
+                        "日本語の小説借りたい",
+                        "日本語の小説"
+                    ]
+                },
+                {
+                    "time": 47,
+                    "ques": "ここはどこですか",
+                    "start_nosound": 47,
+                    "end_nosound": 52,
+                    "ans_len": 2,
+                    "ans": [
+                        "学生のレストランです",
+                        "学生のレストラン"
+                         ]
+                },
+                {
+                    "time": 55,
+                    "ques": "何か食べたいですか",
+                    "start_nosound": 55,
+                    "end_nosound": 61,
+                    "ans_len":3,
+                    "ans": [
+                        "餃子を食べたいです",
+                        "餃子を食べたい",
+                        "餃子"
+                         ]
+                },
+                {
+                    "time": 76,
+                    "ques": "ここはどこですか",
+                    "start_nosound": 76,
+                    "end_nosound": 81,
+                    "ans_len": 4,
+                    "ans": [
+                        "ここは学生の寮です",
+                        "学生の寮です",
+                        "ここは学生の寮",
+                        "学生の寮"
+                         ]
+                },
+                {
+                    "time": 124,
+                    "ques": "ここは運動場ですか",
+                    "start_nosound": 124,
+                    "end_nosound": 130,
+                    "ans_len": 3,
+                    "ans": [
+                        "はいそうです",
+                        "そうです",
+                        "はい"
+                         ]
                 }
             ]
         }
@@ -709,15 +1158,10 @@
 }
 
 
+
+
 	    
 
 
-	            
-	    
-                   
 
-    
-   
-     
-	
 
