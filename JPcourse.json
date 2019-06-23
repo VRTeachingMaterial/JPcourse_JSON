@@ -758,6 +758,57 @@
                     ]
                 },
 	    {
+            "name": "(A班)５号館の案内G",
+            "youtube_id": "yAYtDyS5I9w",
+            "clips_len": 4,
+            "clips": [
+                {
+                    "time": 10,
+                    "ques": "ここはどこですか？",
+                    "start_nosound": 10,
+                    "end_nosound": 11,
+                    "ans_len": 2,
+                    "ans": [
+                        "ここは図書館です。",
+                        "図書館です。"
+                    ]
+                },
+                {
+                    "time": 23,
+                    "ques": "図書館のほか５号館の一階に 何がありますか？",
+                    "start_nosound": 23,
+                    "end_nosound": 24,
+                    "ans_len": 2,
+                    "ans": [
+                        "コンビニもありますよ。"
+                        "コンビニ。"
+                    ]
+                },
+                {
+                    "time": 50,
+                    "ques": "あなた達はどの教室で 日本語の 授業を受けますか？",
+                    "start_nosound": 50,
+                    "end_nosound": 52,
+                    "ans_len": 2,
+                    "ans": [
+                        "このコンピューター教室です。"
+　　　　　　　　　　　　"コンピューター教室です。"
+                         ]
+                       },
+                      { 
+"time": 76,
+                    "ques": "ここは本がたくさんありますね。ここはどこですか。？",
+                    "start_nosound": 76,
+                    "end_nosound": 78,
+                    "ans_len": 2,
+                    "ans": [
+                        "ここは図書室です。"
+　　　　　　　　　　　　"図書室です。"
+]
+                       }
+                    ]
+                }, 
+	    {
             "name": "(B班)宿舍生活G1",
             "youtube_id": "fcE0j62C8C4",
             "clips_len": 5,
