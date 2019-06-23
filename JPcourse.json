@@ -592,9 +592,9 @@
                     ]
                 },
                 {
-                    "time": 35,
+                    "time": 36,
                     "ques": "レストランのたべものはどうですか?",
-                    "start_nosound": 35,
+                    "start_nosound": 36,
                     "end_nosound": 42,
                     "ans_len": 3,
                     "ans": [
