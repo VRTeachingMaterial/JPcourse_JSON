@@ -483,9 +483,9 @@
             "clips_len": 3,
             "clips": [
                 {
-                    "time": 11,
+                    "time": 6,
                     "ques": "ここはどこですか？",
-                    "start_nosound": 11,
+                    "start_nosound": 6,
                     "end_nosound": 12,
                     "ans_len": 3,
                     "ans": [
