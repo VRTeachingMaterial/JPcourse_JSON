@@ -1293,7 +1293,7 @@
         {
             "name": "林さんの日常",
             "youtube_id": "gjozilA_SpE",
-            "clips_len": 10,
+            "clips_len": 7,
             "clips": 
             [
                 {
@@ -1316,41 +1316,6 @@
                     "ans": [
                     "５７０９号室です",
                     ]
-                },
-
-                {
-                    "time": 43,
-                    "ques": "お腹が空いた。何にが食べたい。林さんは何を食べたいですか？",
-                    "start_nosound": 43,
-                    "end_nosound": 53,
-                    "ans_len": 2,
-                    "ans": [
-                    "私はカレーライスを食べたいです。",
-                    "カレーライスを食べたい"
-                　　]
-                },
-
-                {
-                    "time":58,
-                    "ques": "林さんは何番を食べますか？",
-                    "start_nosound":58,
-                    "end_nosound":61,
-                    "ans_len":1,
-                    "ans": [
-                    "一番です。"
-                　　]
-                },
-
-                {
-                    "time":66,
-                    "ques": "林さんは持ち帰りますか。寮で食べますか？",
-                    "start_nosound":66,
-                    "end_nosound":68,
-                    "ans_len":2,
-                    "ans": [
-                    "寮でたべます。",
-                    "持ち帰りますか。"
-                　　]
                 },
 
                 {
