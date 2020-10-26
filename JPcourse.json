@@ -1,5 +1,5 @@
 {
-    "course_length": 23,
+    "course_length": 24,
     "courses": [
         {
             "name": "1.教室(短い)",
@@ -1665,7 +1665,8 @@
                         "シマウマです",
                         "シマウマ"
                     ]
-                },　　　　　　　　
+                },
+                　　　　　　　　
                 {
                     "time":131,
                     "ques": "教えてください",
@@ -1716,6 +1717,99 @@
                     ]
                 }
             ]
-        }    
+        },
+        {
+            "name": "郵局",
+            "youtube_id": "u-Al6T38tZM",
+            "clips_len": 8,
+            "clips": [
+                {
+                    "time": 13,
+                    "ques": "どうしたの？",
+                    "start_nosound": 13,
+                    "end_nosound": 17,
+                    "ans_len": 2,
+                    "ans": [
+                        "荷物を送りたいです",
+                        "荷物を送ります"
+                    ]
+                },
+                {
+                    "time": 28,
+                    "ques": "荷物かぁどこに送る荷物？",
+                    "start_nosound": 28,
+                    "end_nosound": 31,
+                    "ans_len": 2,
+                    "ans": [
+                        "台中です",
+                        "台中に送ります",
+                    ]
+                },
+                {
+                    "time":38,
+                    "ques": "重さはどれくらいかなぁ　ここで測ってください？",
+                    "start_nosound":38,
+                    "end_nosound": 41,
+                    "ans_len": 1,
+                    "ans": [
+                        "8キロです"
+                        
+                    ]
+                },
+
+                {
+                    "time": 44,
+                    "ques": "いくらかわかる？",
+                    "start_nosound": 44,
+                    "end_nosound": 47,
+                    "ans_len": 1,
+                    "ans": [
+                        "百円です"
+                    ]
+                },
+                {
+                    "time": 76,
+                    "ques": "ここで問題　郵便局は何時まで開いてるでしょうか？",
+                    "start_nosound":76,
+                    "end_nosound": 78,
+                    "ans_len": 1,
+                    "ans": [
+                        "五時までです"
+                    ]
+                },
+                {
+                    "time":90,
+                    "ques": "これは何でしょう？",
+                    "start_nosound": 90,
+                    "end_nosound":92,
+                    "ans_len": 1,
+                    "ans": [
+                        "ATMです"
+                    ]
+                },
+                {
+                    "time": 105,
+                    "ques": "僕もカード持ってるの　君は？",
+                    "start_nosound": 105,
+                    "end_nosound":108,
+                    "ans_len": 2,
+                    "ans": [
+                        "持ってるよ",
+                        "持ってません",
+                    ]
+                },
+                {
+                    "time":121,
+                    "ques": "いつ使えるか知ってる？",
+                    "start_nosound": 121,
+                    "end_nosound":125,
+                    "ans_len": 2,
+                    "ans": [
+                        "いつでも使えます",
+                        "24時間使えます",
+                    ]
+                }
+            ]
+        }  
     ]
 }
