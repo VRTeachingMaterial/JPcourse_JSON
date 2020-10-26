@@ -1,5 +1,5 @@
 {
-    "course_length": 22,
+    "course_length": 24,
     "courses": [
         {
             "name": "1.教室(短い)",
@@ -1545,6 +1545,178 @@
                     ]
                 }
             ]
-        }     
+        },
+        {
+            "name": "zoo",
+            "youtube_id":"aRJs_45ka44",
+            "clips_len":13 ,
+            "clips" : 
+            [
+                {
+                    "time":4,
+                    "ques": "でもどうやって行きますか？",
+                    "start_nosound": 8,
+                    "end_nosound": 11,
+                    "ans_len": 5,
+                    "ans": [
+                        " MRTで行きます",
+                        "地下鉄に乗ります",
+                        "地下鉄に乗って行きます",
+                        " MRTに乗ります",
+                        " MRTに乗って行きます"
+                    ]
+                },
+
+                {
+                    "time":12,
+                    "ques": "何分かかりますか？",
+                    "start_nosound": 16,
+                    "end_nosound": 18,
+                    "ans_len": 4,
+                    "ans": [
+                        "27分かかります",
+                        "27分です",
+                        "30分くらいかかります",
+                        "30分くらいです"
+                    ]
+                },
+
+                {
+                    "time":22,
+                    "ques": "最初に何の動物を見たいですか？",
+                    "start_nosound": 27,
+                    "end_nosound": 29,
+                    "ans_len": 3,
+                    "ans": [
+                        "パンダが見たいです",
+                        "パンダを見たいです"
+                        "パンダ"
+                    ]
+                },
+
+                {
+                    "time":38,
+                    "ques": "何匹いますか？",
+                    "start_nosound":41 ,
+                    "end_nosound": 42,
+                    "ans_len": 2,
+                    "ans": [
+                        " １匹です",
+                        "１匹",
+                    ]    
+                },
+
+                {
+                    "time":51,
+                    "ques": "どうやって行きますか？",
+                    "start_nosound":56 ,
+                    "end_nosound": 58,
+                    "ans_len": 3,
+                    "ans": [
+                        "バスに乗っていきます",
+                        "バスで行きます",
+                        "バスに乗ります"
+                    ]
+                },
+
+                {
+                    "time":60,
+                    "ques": "何円ですか？",
+                    "start_nosound":65,
+                    "end_nosound": 67,
+                    "ans_len": 2,
+                    "ans": [
+                        "５円です",
+                        "5元です"
+                    ]
+                },
+
+                {
+                    "time":87,
+                    "ques": "この動物の名前は何ですか？",
+                    "start_nosound":92,
+                    "end_nosound": 93,
+                    "ans_len": 2,
+                    "ans": [
+                        "カメです",
+                        "カメ"
+                    ]
+                },
+
+                {
+                    "time":102,
+                    "ques": "この動物の日本語はどうやっていいますか？",
+                    "start_nosound":92,
+                    "end_nosound": 93,
+                    "ans_len": 2,
+                    "ans": [
+                        "カバです",
+                        "カバ"
+                    ]
+                },
+
+                {
+                    "time":116,
+                    "ques": "この動物の日本語は何ですか？",
+                    "start_nosound":120,
+                    "end_nosound":121,
+                    "ans_len": 2,
+                    "ans": [
+                        "シマウマです",
+                        "シマウマ"
+                    ]
+                },
+                　　　　　　　　
+                {
+                    "time":131,
+                    "ques": "教えてください",
+                    "start_nosound":133,
+                    "end_nosound":134,
+                    "ans_len": 2,
+                    "ans": [
+                        "キリンです",
+                        "キリン"
+                    ]
+                },
+
+                {
+                    "time":139,
+                    "ques": "この動物の日本語は何ですか？",
+                    "start_nosound":144,
+                    "end_nosound":145,
+                    "ans_len": 2,
+                    "ans": [
+                        "ラクダです",
+                        "ラクダ"
+                    ]
+                },
+
+                {
+                    "time":156,
+                    "ques": "どの店で食べたいですか？",
+                    "start_nosound":160,
+                    "end_nosound":163,
+                    "ans_len": 3,
+                    "ans": [
+                        "マクドナルドが食べたいです",
+                        "マクドナルドがいいです"
+                        "マクドナルドです"
+                    ]
+                },
+
+                {
+                    "time":170,
+                    "ques": "どちらが好きですか？",
+                    "start_nosound":174,
+                    "end_nosound":176,
+                    "ans_len": 3,
+                    "ans": [
+                        "チーズバーガーが好きです。",
+                        "チーズバーガーの方が好きです。"
+                        "チーズバーガーです。"
+                    ]
+                }
+            ]
+        }    
     ]
 }
