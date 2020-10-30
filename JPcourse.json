@@ -1,5 +1,5 @@
 {
-    "course_length": 26,
+    "course_length": 27,
     "courses": [
         {
             "name": "1.教室(短い)",
@@ -1802,6 +1802,128 @@
                 }
             ]
         },
+        {
+          "name": "IKEA", //課程名稱
+          "youtube_id": "N-iMlSSXJNs&feature=youtu.be&ab_channel=許庭瑜", //youtube網址等號後方的字串
+          "clips_len": 8,
+          "clips": [
+            {
+              "time": 2,
+              "ques": "あ！A さんこんばんは。",
+              "start_nosound": 9,
+              "end_nosound": 11,
+              "ans_len": 1,
+              "ans": [
+                " こんばんは。"
+              ]
+
+            },
+
+            {
+              "time": 3,
+              "ques": "どうやってIKEAへ行きますか。",
+              "start_nosound": 40,
+              "end_nosound": 43,
+              "ans_len": 5,
+              "ans": [
+                "バスで",
+                "バス",
+                "バスです",
+                "バスで行きます",
+                "バスで行く"
+              ]
+
+            },
+
+            {
+              "time": 3,
+              "ques": "何番のバスですか",
+              "start_nosound": 48,
+              "end_nosound": 51,
+              "ans_len": 2,
+              "ans": [
+                "208",
+                "208です"
+              ]
+
+            },
+
+            {
+              "time": 3,
+              "ques": "へ、本当ですか。私も！椅子エリアはどこですか。",
+              "start_nosound": 77,
+              "end_nosound": 80,
+              "ans_len": 4,
+              "ans": [
+                "あそこです",
+                "あそこ",
+                "あちら",
+                "あちらです"
+              ]
+
+            },
+
+            {
+              "time": 2,
+              "ques": "どんな椅子が欲しいですか？　黒いとか、赤いとか。",
+              "start_nosound": 90,
+              "end_nosound": 92,
+              "ans_len": 8,
+              "ans": [
+                "これ",
+                "これです",
+                "赤い",
+                "赤い椅子",
+                "赤いです",
+                "赤い椅子です",
+                "赤い椅子が欲しい",
+                "赤い椅子が欲しいです"
+              ]
+
+            },
+
+            {
+              "time": 3,
+              "ques": "どうですか、これにしますか。",
+              "start_nosound": 102,
+              "end_nosound": 105,
+              "ans_len": 2,
+              "ans": [
+                "これにします",
+                "これを買います"
+              ]
+
+            },
+
+            {
+              "time": 6,
+              "ques": "Aさん、何が食べたいですか？",
+              "start_nosound": 130,
+              "end_nosound": 136,
+              "ans_len": 4,
+              "ans": [
+                "アイスクリーム",
+                "アイスクリームです",
+                "アイスクリームが食べたい",
+                "アイスクリームが食べたいです"
+              ]
+
+            },
+
+            {
+              "time": 5,
+              "ques": "美味しそうですね！いくらですか。",
+              "start_nosound": 150,
+              "end_nosound": 155,
+              "ans_len": 2,
+              "ans": [
+                "20円",
+                "20円です"
+              ]
+            }
+          ]
+        },
+
         {
             "name": "郵局",
             "youtube_id": "u-Al6T38tZM",
