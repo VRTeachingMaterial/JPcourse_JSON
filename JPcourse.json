@@ -1,5 +1,5 @@
 {
-    "course_length": 21,
+    "course_length": 26,
     "courses": [
         {
             "name": "1.教室(短い)",
@@ -1289,6 +1289,611 @@
                     ]
                 }
             ]
-        }
+        },
+        {
+            "name": "Class room",
+            "youtube_id": "BXp3hYDhAPg",
+            "clips_len":6,
+            "clips":
+            [
+                {
+                    "time":28,
+                    "ques":  "微笑む魚は何の店ですか。",
+                    "start_nosound":31,
+                    "end_nosound":34,
+                    "ans_len":8,
+                    "ans":     [   "ワッフル店です。",
+                        "ワッフルの店です。",
+                        "ワッフル店。",
+                        "ワッフルの店。",
+                        "喫茶店。",
+                        "喫茶店です。",
+                        "レストランです。",
+                        "レストラン。"
+                    ]
+
+                },
+                {
+                    "time":43,
+                    "ques":  "C:この店の定休日はいつですか。",
+                    "start_nosound":43,
+                    "end_nosound":46,
+                    "ans_len":1,
+                    "ans":     [   "月曜日と火曜日です。"
+                    ]
+
+                },
+                {
+                    "time":51,
+                    "ques":  "C:お薦すすめの味はありますか。",
+                    "start_nosound":51,
+                    "end_nosound":57,
+                    "ans_len":4,
+                    "ans":     [   "抹茶小豆味です。",
+                        "抹茶小豆です。",
+                        "抹茶小豆味。",
+                        "抹茶小豆。"
+                    ]
+
+                },
+                {
+                    "time":71,
+                    "ques":  "何かお薦すすめの飲み物はありますか。",
+                    "start_nosound":71,
+                    "end_nosound":79,
+                    "ans_len":2,
+                    "ans":     [   "タピオカです。",
+                        "タピオカ。"
+                    ]
+
+                },
+                {
+                    "time":86,
+                    "ques":  "ご注文はお決まりですか。",
+                    "start_nosound":86,
+                    "end_nosound":91,
+                    "ans_len":3,
+                    "ans":     [   "抹茶小豆味のワッフルを二つください。",
+                        "抹茶小豆のワッフルを二つください。",
+                        "抹茶小豆ワッフルを二つください。"
+                    ]
+
+                },
+                {
+                    "time":107,
+                    "ques":  "ご注文は以上でよろしいでしょうか。",
+                    "start_nosound":107,
+                    "end_nosound":112,
+                    "ans_len":4,
+                    "ans":     [   "タピオカを三つください。",
+                        "タピオカミルクティーを三つください。",
+                        "パールミルクティーを三つください。",
+                        "真珠ミルクティーを三つください。"
+                    ]
+                }
+            ]
+        },
+
+        {
+            "name": "林さんの日常",
+            "youtube_id": "gjozilA_SpE",
+            "clips_len": 10,
+            "clips": 
+            [
+                {
+                    "time": 4,
+                    "ques": "おはようございます",
+                    "start_nosound": 4,
+                    "end_nosound": 6,
+                    "ans_len": 1,
+                    "ans": [
+                    "おはようございます",
+                    ]
+                },
+
+                {
+                    "time": 15,
+                    "ques": "日本語クラスの教室番号は何ですか",
+                    "start_nosound": 15,
+                    "end_nosound": 22,
+                    "ans_len": 1,
+                    "ans": [
+                    "５７０９号室です",
+                    ]
+                },
+
+                {
+                    "time": 43,
+                    "ques": "お腹が空いた。何にが食べたい。林さんは何を食べたいですか？",
+                    "start_nosound": 43,
+                    "end_nosound": 53,
+                    "ans_len": 2,
+                    "ans": [
+                    "私はカレーライスを食べたいです。",
+                    "カレーライスを食べたい。"
+                    ]
+                },
+
+                {
+                    "time":58,
+                    "ques": "林さんは何番を食べますか？",
+                    "start_nosound":58,
+                    "end_nosound":61,
+                    "ans_len":1,
+                    "ans": [
+                    "一番です。"
+                    ]
+                },
+
+                {
+                    "time":66,
+                    "ques": "林さんは持ち帰りますか。寮で食べますか？",
+                    "start_nosound":66,
+                    "end_nosound":68,
+                    "ans_len":2,
+                    "ans": [
+                    "寮でたべます。",
+                    "持ち帰りますか。"
+                    ]
+                },
+
+                {
+                    "time": 69,
+                    "ques":"リンさん、どのりょにすんでいますか。いちですか、にですか。",
+                    "start_nosound": 78,
+                    "end_nosound": 79,
+                    "ans_len": 1,
+                    "ans":[
+                    "にです。"
+                    ]
+                },
+
+                {
+                    "time": 81,
+                    "ques": "なんかいですか。",
+                    "start_nosound": 85,
+                    "end_nosound": 88,
+                    "ans_len": 1,
+                    "ans": [
+                    "よんかいです。"
+                    ]
+                },
+
+                {
+                    "time": 89,
+                    "ques": "へやばんごはなんばんですか。",
+                    "start_nosound": 95,
+                    "end_nosound": 98,
+                    "ans_len": 3,
+                    "ans": [
+                    "さんよんいちごごです。",
+                    "さんよんいちご。",
+                    "さんよんいちごです。"
+                    ]
+                },
+
+                {
+                    "time": 110,
+                    "ques": "学校のジムのメンバーシップは半年と一年間の種類がありますね。林さんはどちらが欲しいですか。",
+                    "start_nosound": 110,
+                    "end_nosound": 121,
+                    "ans_len": 6,
+                    "ans": [
+                    "半年です",
+                    "一年です",
+                    "半年のが欲しい",
+                    "一年間のが欲しい",
+                    "半年のが欲しいです",
+                    "一年間のが欲しいです"
+                    ]
+                },
+
+                {
+                    "time": 137,
+                    "ques": "林さんは自分の学生番号を知っていますか",
+                    "start_nosound": 137,
+                    "end_nosound": 143,
+                    "ans_len": 2,
+                    "ans": [
+                    "1051455",
+                    "1051455です"
+                    ]
+                }
+            ]
+        },
+        {
+            "name":"購買野餐所需的食品和飲品_Group3",
+            "youtube_id":"EgmNBlhJCqs",
+            "clips_len":9,
+            "clips":
+            [
+                {
+                    "time":28,
+                    "ques":"一番好きなお菓子は何ですか?",
+                    "start_nosound":28,
+                    "end_nosound":30,
+                    "ans_len":8,
+                    "ans":[
+                        "フルーツグミです",
+                        "フルーツグミ",
+                        "グミです",
+                        "グミ",
+                        "キャンディーです",
+                        "キャンディー",
+                        "飴です",
+                        "飴"
+                    ]
+                },
+                {
+                    "time":37,
+                    "ques":"どんな味を買いたいですか?",
+                    "start_nosound":37,
+                    "end_nosound":40,
+                    "ans_len":7,
+                    "ans":[
+                        "葡萄味が買いたいです",
+                        "葡萄味を買いたいです",
+                        "葡萄味です",
+                        "葡萄味",
+                        "葡萄です",
+                        "葡萄",
+                        "グレープフルーツが買いたいです"
+                    ]
+                },
+                {
+                    "time":52,
+                    "ques":"ほかに好きなお菓子は何ですか?",
+                    "start_nosound":52,
+                    "end_nosound":55,
+                    "ans_len":6,
+                    "ans":[
+                        "チョコレートです",
+                        "チョコレート",
+                        "板チョコレートです",
+                        "板チョコレート",
+                        "板チョコです",
+                        "板チョコ"
+                    ]
+                },
+                {
+                    "time":76,
+                    "ques":"どんな味のインスタントラーメンが買いたいですか?",
+                    "start_nosound":76,
+                    "end_nosound":80,
+                    "ans_len":8,
+                    "ans":[
+                        "チーズラーメンが買いたいです",
+                        "チーズラーメンです",
+                        "チーズラーメン",
+                        "チーズです",
+                        "チーズ",
+                        "チーズ味が買いたいです",
+                        "チーズ味です",
+                        "チーズ味"
+                    ]
+                },
+                {
+                    "time":93,
+                    "ques":"何かほかに買いたいものがありますか?",
+                    "start_nosound":93,
+                    "end_nosound":95,
+                    "ans_len":4,
+                    "ans":[
+                        "はい クッキーです",
+                        "はい あります クッキーです",
+                        "クッキーです",
+                        "クッキー"
+                    ]
+                },
+                {
+                    "time":109,
+                    "ques":"あなたは?",
+                    "start_nosound":109,
+                    "end_nosound":113,
+                    "ans_len":2,
+                    "ans":[
+                        "カラムーチョが好きです",
+                        "カラムーチョです カラムーチョ"
+                    ]
+                },
+                {
+                    "time":125,
+                    "ques":"ほかのクッキーがおすすめですか?",
+                    "start_nosound":125,
+                    "end_nosound":129,
+                    "ans_len":2,
+                    "ans":[
+                        "はい ポテトチップスです",
+                        "ポテトチップス ポテトチップスです"
+                    ]
+                },
+                {
+                    "time":157,
+                    "ques":"何が飲みたいですか?",
+                    "start_nosound":157,
+                    "end_nosound":160,
+                    "ans_len":2,
+                    "ans":[
+                        "はい ミルクティーです",
+                        "ミルクティーが飲みたいです ミルクティー"
+                    ]
+                },
+                {
+                    "time":202,
+                    "ques":"じゃ 何本買いますか?",
+                    "start_nosound":202,
+                    "end_nosound":205,
+                    "ans_len":1,
+                    "ans":[
+                        "二本です"
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "zoo",
+            "youtube_id":"aRJs_45ka44",
+            "clips_len":13 ,
+            "clips" : 
+            [
+                {
+                    "time":4,
+                    "ques": "でもどうやって行きますか？",
+                    "start_nosound": 8,
+                    "end_nosound": 11,
+                    "ans_len": 5,
+                    "ans": [
+                        " MRTで行きます",
+                        "地下鉄に乗ります",
+                        "地下鉄に乗って行きます",
+                        " MRTに乗ります",
+                        " MRTに乗って行きます"
+                    ]
+                },
+
+                {
+                    "time":12,
+                    "ques": "何分かかりますか？",
+                    "start_nosound": 16,
+                    "end_nosound": 18,
+                    "ans_len": 4,
+                    "ans": [
+                        "27分かかります",
+                        "27分です",
+                        "30分くらいかかります",
+                        "30分くらいです"
+                    ]
+                },
+
+                {
+                    "time":22,
+                    "ques": "最初に何の動物を見たいですか？",
+                    "start_nosound": 27,
+                    "end_nosound": 29,
+                    "ans_len": 3,
+                    "ans": [
+                        "パンダが見たいです",
+                        "パンダを見たいです"
+                        "パンダ"
+                    ]
+                },
+
+                {
+                    "time":38,
+                    "ques": "何匹いますか？",
+                    "start_nosound":41 ,
+                    "end_nosound": 42,
+                    "ans_len": 2,
+                    "ans": [
+                        " １匹です",
+                        "１匹",
+                    ]    
+                },
+
+                {
+                    "time":51,
+                    "ques": "どうやって行きますか？",
+                    "start_nosound":56 ,
+                    "end_nosound": 58,
+                    "ans_len": 3,
+                    "ans": [
+                        "バスに乗っていきます",
+                        "バスで行きます",
+                        "バスに乗ります"
+                    ]
+                },
+
+                {
+                    "time":60,
+                    "ques": "何円ですか？",
+                    "start_nosound":65,
+                    "end_nosound": 67,
+                    "ans_len": 2,
+                    "ans": [
+                        "５円です",
+                        "5元です"
+                    ]
+                },
+
+                {
+                    "time":87,
+                    "ques": "この動物の名前は何ですか？",
+                    "start_nosound":92,
+                    "end_nosound": 93,
+                    "ans_len": 2,
+                    "ans": [
+                        "カメです",
+                        "カメ"
+                    ]
+                },
+
+                {
+                    "time":102,
+                    "ques": "この動物の日本語はどうやっていいますか？",
+                    "start_nosound":92,
+                    "end_nosound": 93,
+                    "ans_len": 2,
+                    "ans": [
+                        "カバです",
+                        "カバ"
+                    ]
+                },
+
+                {
+                    "time":116,
+                    "ques": "この動物の日本語は何ですか？",
+                    "start_nosound":120,
+                    "end_nosound":121,
+                    "ans_len": 2,
+                    "ans": [
+                        "シマウマです",
+                        "シマウマ"
+                    ]
+                },
+                　　　　　　　　
+                {
+                    "time":131,
+                    "ques": "教えてください",
+                    "start_nosound":133,
+                    "end_nosound":134,
+                    "ans_len": 2,
+                    "ans": [
+                        "キリンです",
+                        "キリン"
+                    ]
+                },
+
+                {
+                    "time":139,
+                    "ques": "この動物の日本語は何ですか？",
+                    "start_nosound":144,
+                    "end_nosound":145,
+                    "ans_len": 2,
+                    "ans": [
+                        "ラクダです",
+                        "ラクダ"
+                    ]
+                },
+
+                {
+                    "time":156,
+                    "ques": "どの店で食べたいですか？",
+                    "start_nosound":160,
+                    "end_nosound":163,
+                    "ans_len": 3,
+                    "ans": [
+                        "マクドナルドが食べたいです",
+                        "マクドナルドがいいです"
+                        "マクドナルドです"
+                    ]
+                },
+
+                {
+                    "time":170,
+                    "ques": "どちらが好きですか？",
+                    "start_nosound":174,
+                    "end_nosound":176,
+                    "ans_len": 3,
+                    "ans": [
+                        "チーズバーガーが好きです。",
+                        "チーズバーガーの方が好きです。"
+                        "チーズバーガーです。"
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "郵局",
+            "youtube_id": "u-Al6T38tZM",
+            "clips_len": 8,
+            "clips": [
+                {
+                    "time": 13,
+                    "ques": "どうしたの？",
+                    "start_nosound": 13,
+                    "end_nosound": 17,
+                    "ans_len": 2,
+                    "ans": [
+                        "荷物を送りたいです",
+                        "荷物を送ります"
+                    ]
+                },
+                {
+                    "time": 28,
+                    "ques": "荷物かぁどこに送る荷物？",
+                    "start_nosound": 28,
+                    "end_nosound": 31,
+                    "ans_len": 2,
+                    "ans": [
+                        "台中です",
+                        "台中に送ります",
+                    ]
+                },
+                {
+                    "time":38,
+                    "ques": "重さはどれくらいかなぁ　ここで測ってください？",
+                    "start_nosound":38,
+                    "end_nosound": 41,
+                    "ans_len": 1,
+                    "ans": [
+                        "8キロです"
+                        
+                    ]
+                },
+
+                {
+                    "time": 44,
+                    "ques": "いくらかわかる？",
+                    "start_nosound": 44,
+                    "end_nosound": 47,
+                    "ans_len": 1,
+                    "ans": [
+                        "百円です"
+                    ]
+                },
+                {
+                    "time": 76,
+                    "ques": "ここで問題　郵便局は何時まで開いてるでしょうか？",
+                    "start_nosound":76,
+                    "end_nosound": 78,
+                    "ans_len": 1,
+                    "ans": [
+                        "五時までです"
+                    ]
+                },
+                {
+                    "time":90,
+                    "ques": "これは何でしょう？",
+                    "start_nosound": 90,
+                    "end_nosound":92,
+                    "ans_len": 1,
+                    "ans": [
+                        "ATMです"
+                    ]
+                },
+                {
+                    "time": 105,
+                    "ques": "僕もカード持ってるの　君は？",
+                    "start_nosound": 105,
+                    "end_nosound":108,
+                    "ans_len": 2,
+                    "ans": [
+                        "持ってるよ",
+                        "持ってません",
+                    ]
+                },
+                {
+                    "time":121,
+                    "ques": "いつ使えるか知ってる？",
+                    "start_nosound": 121,
+                    "end_nosound":125,
+                    "ans_len": 2,
+                    "ans": [
+                        "いつでも使えます",
+                        "24時間使えます",
+                    ]
+                }
+            ]
+        }  
     ]
 }
