@@ -1803,8 +1803,8 @@
             ]
         },
         {
-          "name": "IKEA", //課程名稱
-          "youtube_id": "N-iMlSSXJNs&feature=youtu.be&ab_channel", //youtube網址等號後方的字串
+          "name": "IKEA", 
+          "youtube_id": "N-iMlSSXJNs&feature", 
           "clips_len": 8,
           "clips": [
             {
