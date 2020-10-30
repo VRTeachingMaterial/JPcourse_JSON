@@ -1804,7 +1804,7 @@
         },
         {
           "name": "IKEA", //課程名稱
-          "youtube_id": "N-iMlSSXJNs&feature=youtu.be&ab_channel=許庭瑜", //youtube網址等號後方的字串
+          "youtube_id": "N-iMlSSXJNs&feature=youtu.be&ab_channel", //youtube網址等號後方的字串
           "clips_len": 8,
           "clips": [
             {
