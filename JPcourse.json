@@ -1807,7 +1807,7 @@
           "clips_len": 8,
           "clips": [
             {
-              "time": 2,
+              "time": 9,
               "ques": "あ！A さんこんばんは。",
               "start_nosound": 9,
               "end_nosound": 11,
@@ -1819,7 +1819,7 @@
             },
 
             {
-              "time": 3,
+              "time": 40,
               "ques": "どうやってIKEAへ行きますか。",
               "start_nosound": 40,
               "end_nosound": 43,
@@ -1835,7 +1835,7 @@
             },
 
             {
-              "time": 3,
+              "time": 48,
               "ques": "何番のバスですか",
               "start_nosound": 48,
               "end_nosound": 51,
@@ -1848,7 +1848,7 @@
             },
 
             {
-              "time": 3,
+              "time": 77,
               "ques": "へ、本当ですか。私も！椅子エリアはどこですか。",
               "start_nosound": 77,
               "end_nosound": 80,
@@ -1863,7 +1863,7 @@
             },
 
             {
-              "time": 2,
+              "time": 90,
               "ques": "どんな椅子が欲しいですか？　黒いとか、赤いとか。",
               "start_nosound": 90,
               "end_nosound": 92,
@@ -1882,7 +1882,7 @@
             },
 
             {
-              "time": 3,
+              "time": 102,
               "ques": "どうですか、これにしますか。",
               "start_nosound": 102,
               "end_nosound": 105,
@@ -1895,7 +1895,7 @@
             },
 
             {
-              "time": 6,
+              "time": 130,
               "ques": "Aさん、何が食べたいですか？",
               "start_nosound": 130,
               "end_nosound": 136,
@@ -1910,7 +1910,7 @@
             },
 
             {
-              "time": 5,
+              "time": 150,
               "ques": "美味しそうですね！いくらですか。",
               "start_nosound": 150,
               "end_nosound": 155,
