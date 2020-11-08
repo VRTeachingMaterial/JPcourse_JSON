@@ -1728,10 +1728,10 @@
                 },
 
                 {
-                    "time":92,
+                    "time":107,
                     "ques": "この動物の日本語はどうやっていいますか？",
-                    "start_nosound":92,
-                    "end_nosound": 93,
+                    "start_nosound":107,
+                    "end_nosound": 109,
                     "ans_len": 2,
                     "ans": [
                         "カバです",
