@@ -1637,7 +1637,7 @@
             "clips" : 
             [
                 {
-                    "time":8,
+                    "time": 4,
                     "ques": "でもどうやって行きますか？",
                     "start_nosound": 8,
                     "end_nosound": 11,
@@ -1652,7 +1652,7 @@
                 },
 
                 {
-                    "time":16,
+                    "time":12,
                     "ques": "何分かかりますか？",
                     "start_nosound": 16,
                     "end_nosound": 18,
@@ -1666,7 +1666,7 @@
                 },
 
                 {
-                    "time":27,
+                    "time":22,
                     "ques": "最初に何の動物を見たいですか？",
                     "start_nosound": 27,
                     "end_nosound": 29,
@@ -1679,7 +1679,7 @@
                 },
 
                 {
-                    "time":41,
+                    "time":38,
                     "ques": "何匹いますか？",
                     "start_nosound":41 ,
                     "end_nosound": 42,
@@ -1691,7 +1691,7 @@
                 },
 
                 {
-                    "time":56,
+                    "time":51,
                     "ques": "どうやって行きますか？",
                     "start_nosound":56 ,
                     "end_nosound": 58,
@@ -1704,7 +1704,7 @@
                 },
 
                 {
-                    "time":65,
+                    "time":60,
                     "ques": "何円ですか？",
                     "start_nosound":65,
                     "end_nosound": 67,
@@ -1716,7 +1716,7 @@
                 },
 
                 {
-                    "time":92,
+                    "time":87,
                     "ques": "この動物の名前は何ですか？",
                     "start_nosound":92,
                     "end_nosound": 93,
@@ -1728,7 +1728,7 @@
                 },
 
                 {
-                    "time":92,
+                    "time":102,
                     "ques": "この動物の日本語はどうやっていいますか？",
                     "start_nosound":92,
                     "end_nosound": 93,
@@ -1740,7 +1740,7 @@
                 },
 
                 {
-                    "time":120,
+                    "time":116,
                     "ques": "この動物の日本語は何ですか？",
                     "start_nosound":120,
                     "end_nosound":121,
@@ -1751,7 +1751,7 @@
                     ]
                 },
                 {
-                    "time":133,
+                    "time":131,
                     "ques": "教えてください",
                     "start_nosound":133,
                     "end_nosound":134,
@@ -1763,7 +1763,7 @@
                 },
 
                 {
-                    "time":144,
+                    "time":139,
                     "ques": "この動物の日本語は何ですか？",
                     "start_nosound":144,
                     "end_nosound":145,
@@ -1775,7 +1775,7 @@
                 },
 
                 {
-                    "time":160,
+                    "time":156,
                     "ques": "どの店で食べたいですか？",
                     "start_nosound":160,
                     "end_nosound":163,
@@ -1788,7 +1788,7 @@
                 },
 
                 {
-                    "time":174,
+                    "time":170,
                     "ques": "どちらが好きですか？",
                     "start_nosound":174,
                     "end_nosound":176,
