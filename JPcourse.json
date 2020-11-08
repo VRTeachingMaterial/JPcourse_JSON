@@ -1327,7 +1327,7 @@
                     "time":51,
                     "ques":  "C:お薦すすめの味はありますか。",
                     "start_nosound":51,
-                    "end_nosound":57,
+                    "end_nosound":54,
                     "ans_len":4,
                     "ans":     [   "抹茶小豆味です。",
                         "抹茶小豆です。",
@@ -1340,7 +1340,7 @@
                     "time":71,
                     "ques":  "何かお薦すすめの飲み物はありますか。",
                     "start_nosound":71,
-                    "end_nosound":79,
+                    "end_nosound":73,
                     "ans_len":2,
                     "ans":     [   "タピオカです。",
                         "タピオカ。"
@@ -1362,8 +1362,8 @@
                 {
                     "time":107,
                     "ques":  "ご注文は以上でよろしいでしょうか。",
-                    "start_nosound":107,
-                    "end_nosound":112,
+                    "start_nosound":109,
+                    "end_nosound":113,
                     "ans_len":4,
                     "ans":     [   "タピオカを三つください。",
                         "タピオカミルクティーを三つください。",
